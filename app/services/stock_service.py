@@ -1,1 +1,298 @@
-gAAAAABqJ50NnzYRQfdSm32I8SSYKLtnHXwpx9mY1qubHvvJVPMxCP_JVBlEk_PJbT-LjhmOyVHHVmP7BJ3do_qn_4nGNdf3xp-QqU0-xRq4J_VFkMzmAvK7WbmzPicXMXmkjjevsm_wKDwKw24ZiICks4xv-PPwVBNNCs3POqY-aAiJ2sddnpl7vbX9vP5U-em5lzKOasdQHeUfjpCsMmK71jfDLMZbbSXJUJ7hcBD6BXwsYeafCgglVY77FnowdpTA4heBdzJZ3CqwQNU_mKxthXmplfL-KFcWw2KWlLdaJJmkDhmXbpfxfiFBuBV1GlyQxwTBgmXRQreC4SRuUV8m966frPyWfJCUKvkenK3Ihvh6wJ1Vs924Nq5t7okihzW_OQCHlusvKgwNuRKpSPggB0pQDHjozMUnx6HHKvlTRC4zKWWOPNddqVDx9uPyQ4BEOl-k8veKHcfYscV-r3nfz3zcHY624RU29Hmn4_bfT9NprhqsXIEMU00s98eG03hIQz9jz_lI1wJX95CHmdju4ynhizWFSzHq0JtGmaBZRXfuqhMvxmgK_YpNxznoYZoT334mszti46rGokXssC3OvMLg3qmm2aBcLWsksMp6GO8Rt3KGEYnM3xo86_pYm4wAazhhE_yg4YC-RPszDQcI3VJF8oV3aApYASG8lG0UGl11Kh7gMKMVdWdGpRmxoPQmhmdMvImcjf0CfVGZcf3_77YZ1svQ2lkaea2hCcvQ62bh3uq45-X1MUPOo9VBjGNPK1KhGSlOz-_wtjV_MepohjpBw_Nq6NZpj13FdLI7zuPvn43eVEDEGstAB59-yRyCvRxlg2xMAIIzV77hSaxPrVIaj8D_nqUB8c2a39BOYz-YboXi87zeipXEhh4Z-gjVWNNCafox9kYlvDUqydpZTySTUIDzRCcYWLifuq2oXyy531OZzusxYDBzqGqd2FgNvSctVCkevbnLCgUqGfzvrDnHO8d1E7gBj_296dtQoRkZeq_ZD7sMAqcv0BNBk0l42JYYcRNfU1RDaWdBcqLIiRvsZf1wJUCFbP5JHqlkwHqg9IVXyICJgIZAVHporkmNiSYq1Us2N84898yuuR4HKYiPrVS0gYgwAUY1wAFdVFYNoxZ5FwvpoPgMfZaLPgKm4OAmrqssXo-zEbP6sun0Ro2QOnukLjd3Yf6Rmyxk4xi-GuloiH7XTYgceGqYqf9qc68Ygn_BYQIgNVUmS53ut-h7eEudcpm9WdZg8gS0r_wTa5cNa3CVrxqUUgGPMEb7Qa5rjiVZd1lrdl3EU7Kc6XQqBKAg-lbgVBAyaTb7XYG1GjRJ4Df0dBGYU9dLTd-LtE4FUDZWOwwrB90QIziEUeOWJCN0pbj_TH3spjpCwwPb0faGExslB_IijPP9BYtBYgYVVltx7cYzz_ujgglNhWza5O18NfdJ4AWh8zVCcVR-CbrCo6_VS3vDQ45kPYS2Uap-QQQbC-IwP9Fy1TAX1piGXCnIOOHLC88dPDHg9VbmKrqRWVqJp48-v0rHP1JPHxnuT7hwWWtqXPiKXv-QFtGqwEY5p5H6C-DfOvtE7HNejRQGoK5Lm_KlrXhGLR9YegTZeeeTeDk_jZyUnBcnhNTXBdNYcHxL9oHQKxzMmiLmj0S3gGlZ3uOWh8gESLd_vJVK6s8fKK2M4UHRs23zNQHn8I-yd2oW9oblqOaFAyTFgUn9NLkkdNfEPeWJCy9-xGEdQclbpPKosQ3-NiXBjVy8dxqTGck72_-Du0snCUlggezlzVlNpX6iOOJBMa7c_fJ9W3jmPdxILJXjpsLjYksS7UXaKpH6LOhN7cZnJfmj0MEKuIvooSY9uizCP06oaw0nw8AQCZlPlXnsNg0eqLIUqPym4J_gWR20Y9cZLgvkw_0f5D2rV9hv1iAJE38Yx2X1pprf5IoHrNRl5CXXy1GmdSUw6M5Qwmz6dshnqt4hRwaS2BoqYHrZ3-ROgdefKaFzFKBI5_DGq9tXY84rLcmPSw5a5hTDv4VqGsHnK4EdKS1by0Nx_SebmnZ6D-D9w_Sl1HU3mxzNWiXpVjjj3ZA8EpnHdQgw8QVXNDWNx3uiwam7swYTkDp6bke_VLchnY2KP8c3Ns-mYDj9QBcs2EXFU3m0Ykb9To9RpqkaoFDWYXTz6O2wlUXqX52HUAKiUwZULZb62ZZ7tOPiHBzCWUr--SpeH7Lnt2hMUsBpH28LKwaWDlayLkbwpOxILfaCzP5ghUMOdSSOd9_Mi800KiR0a22QcSxKv5lKgm79UYRLQaKyorDFk_7u7cLngj-hB87fpw8ADd63rD5wX9eMkqGG01Wt_DS3ors3_coyaWyig9IGQfUawTKilGGiGLh6duv-K3_P54xmFywOJkEbT2Gb6qzvbGQI_tIbejKZShEUIDbgZDPn-1jl3wmXtTXwNmkP123cF_WRnReirRIwSXpwtJXE4dE53lQXGoWxg--zQdZ8_YhWeWW9K20jZroFhT-05Lvpf-ePhmKrLwLIuaAEu8fdM0wZfzKswl-ol8pL2PLRQ3kWl9XPNYgeS1zLkG7NDxTzEO0xQv0PgzS29-tCZgBdQGF937u8c0MYur9sDIITaOWHVgv5uQYBgOTij5K15XqEa1C3khTcUn3DR2TLxkP7aPiCOWWsfDAIV2hm10HExEZ28fcHvRp5J5b4I5U8i4nlXoXd0dw2nv11w_-tJizNjucYVOp66sNpfqQDYCQM_WJOej9Tj-Rz_qwXm8Odbih4xfvre3FMuMhenQuo3doyN55Go3s37OJcOeZfWd9OLGOvs5SdNreNroccvk2JyqRnUuQ5ZiPRu4qiylBJPgQBbyn_Iv3LX4tviVQ9CNtPu8YweJOGiOG8Dq9vklumfgo8ZifbrwhVci6L2Ma2DhMbT5PtfdseGAZpM-0sBpDq6XQjUESXzopfkMKHd3bpANvdsJZPREV4LPs3_sm_cO8FD8kzh1hzK4Qlm01a6aFrYuLMT92ZrO9453-Ng8SS6Q_r_I5eym3W9tctIcwiJVbQSrTg8o4hvptACFE_abx66J4THNNqgyQNvlvBS06gejlYEsZxynFZAaA3iSZm5-dhZ7eUMcCHTgAi63IIDdoBW64skGijKcZzHSnzPmKl2HVoD3uC9sRfscS1uw1URv-JHJbZEITrB7X9AFRWqDU3CMj46z50mbf15MZ7jRd2X09R9gS4dVc4VwJgaHCBLKe8jaYQkWzxn8KnIjWix0s4EaxV3RP21PbijCnGeDT-9jD7NkV0UMzBrToa66oh-quJaL08yHsPLf6yHvo4EUbFh0OFD0Cf-IQgxtPsTneWZZUOXqkVZXMZUPnkXf-prhewPXBghuqexRDW-iPlwgexAuRw97pwJH5Cc_9VO0FqHSoIWTzclOtWVYmq7Ye6C3nxeNwznoLMNMOLEDQjfFJcAcPlBrngnjvb7jr7GYuHrbuCjQixaRkktpaYYT0oYQboeS85lI_b0jbpr4fZ_LcQ4BlqlV8E1wLQp_TikdhDVrerbDf1wqe7qZbiqkcHAisg4_Z_kuwUSlkTJCQlfOw0tu9njoIUmgn8aMFrK1j1cTZVlSnptnAnQKDI4TuD7TS3EhXfrteLFLUZVd3YetrRmImClFMcXrSpJQk_FCGBGTKv3-BoS205Xvm51ZjDAHM0BaWvaU1XwfROzVyMq0AJUTzR3Yd-_9NzAjoVqT8EZvkaM3BuHYorVdzqbnw9qic3WRp189x7xMLthkjgdya1mFEglMpXZ6JQ7HmX39sG40_IvQPeSXPJtdJh8ofxzMfdKg3ZzikMSDTA8rJZ7WZZHwjTfneG3Sxzvn6VYlVMnCVDq4VvpdXoKHtVj5shwChwHj7Vd1p98KVxILYLR1zzoS6xmi3PaUJSuv5ufGchj3jabRspwbGc2kzgEnWrhx230IhHhVfcdIZAfRGCWzQ4aZLfTJlYQjcwMrA4KLQPkgznR1JlR4Ux-B1TW1W8C3SLt2vNRS6gEX_7j0P8nIrFDJBKRy1LgU9BmVyYad1VoQZUFM_TZEEF9a1kkdRrK4JDjDB2g8XPq8giUqMfC7i3akWsqHImLY-AlDS4vyQZhIF26Ew1zsFfnLHDs5AeZBa5c-93ogIv7dFst--TCoibxy0Ml802Zp4pIcLA78Ew-kFmQ6af4BHAkHVaXpNrQFGPP_0J1nLKAAFLx48Kanpi2Jgng-BLXdDxiCIAwrKi1JW3qmD3vdnYXn42eUznW3sbwgKuVJ57V5HFykk7w70ZOm739H8E15Je6QJmPssaSgKsIDOOYQiAjsyu4QOu9R4DltPIoujw_d7l4gEBcdLVZwMhUP1DGFg_VhaH_AcVRHtsDX2WNm_MBDPB4i9UEg4N3qFmDDcsRjTRnIndwgeNx1CEDufhzSYyrhWfmFDN6oPdQV0DCbaP30SrAhZ-KeoWizOszJCbwD2OxwqYjuMzEtSi8xU0z33u-YcpVKNzWAS0LaxFa914ju3I5qEU6SX95noRKeVoDUOp98LxkJgZUgtGyVLVitnT8nWMCF1qLYpNzOrQunn_rYX3Jk8XtXbpuon8suBMmhHNb4y8qVZfou76rP6GFUvucg8COeXjxu51FhQtj9rolxV_FbRD4iHSqBUgdpLoGFLaYQAwL-K6PBnfPO3BmBotqvHcmmRPnSYN2Ju5bJBgDStcsrIB-dB3P-aWyoz-X7n8Z9FJEuAIxd7JoLFs7q8-_eFm-Jr6yiaSxy9-C8Kwa_IG9leBvkMnvX4eEtbTdsTpjZOHU1rSfzpn9NuS1-scDVCvOgHAVoKIFe56WvntDOhJ_n8o08yfGKUK5aTcKmPiIEXYM_17fEVpIbWqlGhoaOgcXGrS0VRhR6MKsbzzxPV_YwX36PpKn6Pri2YRNASXIfeY0spfLNNozMJzBh2bwUQ6BmrI6qo20nuqDLGELe1Ce6wVGbB2vfuLAYJ7EM5Vaa_YOqR1g05QI7j63cINAf3-2MDGOvnweK3Y8x6b210znrRdVM-G0qvblVF3wV6NojNOmU6uod-fiVX2mjHoX26HqrhJfwyl9B-Z25SN4acgFYeecRb-_SEhqW4pz3w_YIOjc2GmWEjBZnqbdBQwJlJVdf1wkGytg6H3tcgEyCBnvThHOFPgUPfwEeG5WgSaP9FOKHT3VyUjznOXO0PkoQgvfrvRQbITlPLYz-nrLAnYiK7eAVWYXbNED5MWO7-IUn9UtBo3XAxr7OgsVW6tcnPWAH8kERfFDJ0NORAmKSrqqDdnVTDxClNTTQ91txGuO0H6deE82P8zX67xwESp0B74ALUL3QTMIR1K-noQoqIzHggE9g2yTv5rE_yXYsNmE1eJv6yn95J_lowgR2SEn66nPHkps9JKtF4qZviTuklOMy8PxYrJQsIknCyVZ_ysIWJ9pv3H20fahTJps9AQNDCTbuPQRE2dhnzgs2C3KB___GCr14W00mtFZHGTRuc7WqU4ZMGXWvgfv-SB-3yE5jgQCHwqksUwMnuwyLjLmXjfE1nUUKYlx_Qy6z4v98tUFXTjUXnK4C5mhTRUIu_7KaTMEyQGV9oADWUkkr58nahvF9olJ2omxVI8s5JBBhdOqrIiUg8sAwTI9MwHo1Ey-YTfRQHeY7bM6VKTsVE2DDEFYtEha-AZ2MjnikK33y-mbZiEf-_Vr21j6XxzwKeWGtVQoGC41fRqmTpVFCK470N0ZiAcZDg7f3lv8WRbdQjgIVP0E4ZuEbVGn1HJC5mU5qxU4iswmL91f-4EJm0T-YVSC7j4vOj7rzYMMu-y_Xf-H2rdvbEaOcyYayPKNtqbV0ZdkgjLjywih3rEuPJOksChgQZdXzISDjxO7DdfNOfPgBA5d5HHkcIJR9sOpJZ9ewpUnW97Du3Cv973BJfYe2KqCOt_YK_4iNSM0w4wcG85wGnAywAHXOLVA66nzkxHgEUJeYIH0s6n-XsE-8pgukdX8vTffmME6jlarxWRPhlJjWnWOL7yuoiZe32MjYBOcSRgRFb_0Ufctv7oBGCGAqxzJBa5YWVLm1_Eou4faTouXytfSjYKJwsZSYjnMThi0QjGvP7VNEuf72AiZA1LVVLqkeE1lp0Ln7jpxjNJvvmDwORFvbeJciwSyZxYdwkBvyVvrNobg3tza-xDQrLOzPyB-x0U-ID1GeaQecRcS7TvUk29Jf89V50THZ8IOlsVA1qh1ZTj6I_ZZlNdojVIomlEndmJw2owAYRe9-WP2z6cGfIekkBRp3jNPzOY-wrDwsH7rUOFg2sFjIZsn72smCKQezKemo58ESiUXkI5qeSmHBhyXSoAYc2DzQyYz0m4Y8L-XcbU6t_DZ9cExlWDpnYQcS1biH4b-SMxCHh3XppgGi0mMaKg3GYaOfBp-xmfvQe7lnAVfG8ELlzYlj26xgRbBp132T_7joBsPLAb2MY_RWQVZ8BBgKme7Co5dtr2wCbicuO2Lc73MPo6yuRLrc0lsJwbY7BQFPCfR_h-Av4Tw_66xkjstSTf7TYvPxod5eRYF7vLVLUlDiE1ZPMP9HSwNoiJEqRgWgoSjJk9StHWK1KXOpmjY9fZCks6Z44artJkE_xsex3ycfwotAk1IuJDkDjByOcgdUP5Km5E1pQtocXQcuhr2m-yeAktYPmDOBMLSG03snCwX-UlkRCpcCdGqMEK6d0R1N03ixsH86En4o6aMfFely1Y_J0-9tk2zw2KQxIc56hCur9P-eluxuNptlmiZESpIt6E0-3jqwXm62JQ0B9-zCVsJMSywRvcvm9ypkXBe1LvJRf5OaXCnfghKYttUdGrcFSuOKj2JH8cBy7NP5n_BZHoiKzdHd_byKqxzZlz4mlExVBgN8ETXD4Dv7JCLc0aYPFmUFkKvW-AqFOUmqdAQnPjDohVfS-eWuc02IeK6D2awvuw8kowLiSOn9qzJcubw4q5bj-QKTYCknOgUjERaHeXHa9VoFHpB13L-TcTGcW9eQSWjGvGVIDONPinz1pUSrocFzbCKVyoggxinNOEh4VRpud1L3ZiNuZox3SPQlfIna_FRfHF_bqPW-Cx3aL6r4nOLHfkGx0vyIdeubuae5WpxcuRj06tQ-I0TkIy2uT1YWgrEyY-OvyR9O34Nh2iODwk3qJ64DfvZEit_PRCnPSXkz4xwLljU2PR3jRTFCVe-C52Uyu3kExVEEEnUAEU06Sli4ELyLYd_F2lZBnOuQfTx9-F8Zekt7J9CEEAHH9m95PhCtHjR4o35ld6c7fTRdidCujRB0Cxo0Yw9KhgigUIwmYAXE0ggtd9M4KA7j5ZawDJRh1GADGuyQzRug3_MbjEODXvChvmdxCn6jRaweEN12oY25OphBX1erzJxpD4u58OqjF9NnA_eTSf0p4PC4r5RlFvtNF5Vb6SbUI-5EEXDntAYKURDa-nPKHIO_hE5CDmwxXhDjCTNThiFKWkv6btX6gC66PmlFlFe0Ctsk-wUOy0l3zbO9weAwsup-WOZpPBP3bLgcprxbENw_MnkVkifOlvsUoG-vihmKNo8oVtFO8p82w9q1CZnylAopf0mkiQNqO6o8WosIHkIjyQBcdts-wUgT9iVGqWhWGG82RJ1cv451EBnD6g7K3gAenjUMe5DRAjZbtKomD67_4Id8lEmYoP7OblY_QZZ-m-VduTzPYswdiwQDl3urNgksHm_u_hkcLRkH4IVKzqLRYAEFHKUWU8k6MvTOWmHQ0Nj6g1ohQlBlzdclNNq9mH0D34wLBdzdJGIs_HlNobPoo3-2QPK3a6D12yuBNp_8whGbT2AvDsayeus5SxKNELQrC0db_WsaTTHj-Y_6iOe4b6ngb7g3U5SHNWfzvttJr2JFWBFoMayqSzlyupD8R6a3Ssctlw78h5S2zSvTtCfbUTXahlZ5Khb7gJQHOlAK3RKGRtjlC9fSo0LrQwb6Ay-CyAsiZ99hrSkYYoKxiPLDbkMSvC_mtfTTuHlDYCIOgPLtbIVFtwmE03j1mhOlKT5afgwqxABIGlchdRAMrQI1aW6Hmd-2T0MztToOwJedAQN9scABeI2w7v7UrepuTZl6bQg-OjL4ybMLQZNByW6KaEjHBNG03S7c9LieNpsIjYXiiFf6EQVp1uIlTkrFc9_VN5vx8zgEz6uB1Nvp4TEUL0_134wr04vnW633db-mxsLlSDl0Z0tMSsFG6YyN8-Ewxb24eYluB7f61xh0GVXNuCXi0n0ZjmY8XXXGEEP8hcTEnETjPB2p4xeRW7rPlykkgzqiQn6MzOuX-aIC4C0YGSyhdjd0Bdii8TeP5nmx_O0ToK8bwamcCQ_BnhXZiySEQAZ3f_c608m38xKkgUq1SwsW-iwbiLcqfDVYt_goh4Ev37PXbCYgpnel7K1U3-0eigolq71Bhbu95Dh152J2FWKK5XFVBXVqN6lAFCVl0QS0LtWBPK8_wzIDpaM7-U5iAGOde98Og79VGY3ezoWs1Q9oJiBGFY4Plc4LJV7u6k5My4Do9dmnUAUBqq7Fud3z0ktN3dOtQbJ8x4bNdYwCMDFVKfgjzmroyM231mV5guqKr9nGVdvEangyDxS6dVO8_wEJ6dtbIYb5WLjRbKDppmVrhbuHca31AIrVX2A2IhuOlLay6DwyKYZcXlS3ZmYvUG2ZOVLnLS0XhfEfuAtrj4UPA-chIzZGwBXPRguek7XTHayU4-qDwWpBq32StpaK5nBxuPSs0PNYxw7QbxAq6fCJOUosQVXUF9XZCaOmGDG9gKQn7f_e69cWwg8q4bYOx16orHU6p7umamSPEej951jMDUq0oYPpwQ1JzKJqrL-oSfdlNrBVUMb_ZM6xcqE1usbPxDP3VLwjQJujLBACohSrQIdECbcdgX19iAV74dpwy5R1DiZqpPxxEgJLU6bwNFN7w-mZyGz5nagjamu9BpwHfSoARJnGiyq5BKRQxPzw7CeSbPa2B_dXfLlXTNMbBN2TV17WJ4-UXC44obuywa97Ovl_2WQUdhx7LeI-47daMbUgnkC2WRw5X-X3SsKKLduJGgnMwW9rQeoELMMvRPt1YxpSnB0QEuKZvLSZsGNgGb2YsdC_NNtRwfTelAXcwWdEVOSKBIR-fHJwiDqam87-_B94qve7L2LaGiZ9zR-8G-HJmApamdlKOV95x0meLlj_BZLall5NP_J6wJRxQVEERFgpBf9lG7wH0B8MirITlnyzep6UksBXOEmcZzQwZWUzaFtD71Xphws8g3Nayvd0evOWu8cxQ-DV7JfaDiUl5Wzagr3HArb2wKwEPf33Kcoh-8S1TnSDwNkz5zJpXC-qVB9hnZpaE7wHeda67qUXUNv5LWzXUJKs2mR3eiZuRh1ZpNOfMR9PMEDbignGzb3zCIvRNTSkKG_AcnsKwiggZP5W8svW-eOlGYuhRi0B-xIXvELh56Hu8MBUEnry95g15EbYCfCIZTf9syWlRoWNjwJPq0BT8MO2rGjK3Ny0oq2Q60fIm4ybItl1bKjvAFF27HNsNBcw10EBqbRj1tcY9GKIBHQCtLUnXrPkV1ViN3yznD9PTWMskE_nGr9zTovr5IO0-qfrWemwBxWXiRxjw1-Llu50NrllR0BjNT04pm4H_Dyd6g_lFj87A7FJXPU34qXoJGIarI-o8GTkallyjK7Xl5DKAvKYe-q4eNHNVBY1HTp-O0lToTzNimThlPVuXqCIprHaabGeQKdc6UkB2XAXmHMsnkaPpesy0nsYEPROfrWf8Tj_IRkWv-ioxGTqsT5ftSogpi0-HPDrtZfBN8UtPI3Yg8myROPetbHz--Gxv0q7LbgUIJyV2N2j8Jn3qQZLLKTvEsk5gS-tNQ0esIwVWLt_B8yogg1drK5HIBdUo3o7hIZOhdpTY8j7hxfiut2h4yoHiFD89LEY09HEB8VxFlE4Dl-twZko49S9AF3G_M8E8YDCLSCAK1Hta8ZKHbx4Hm_YrOlz8NHbLi7VAifL2xtGMhAIE-eJbOL2FFIXJDl6d6ULdVxH-aAqmkFlY4bLLofshPTWM0xawKxsVlQPjPt2XzWGnfLGLb9oslSZBI-9SxG6zY00MOavqB5o2iG_s2yZb5ZDMGGKcVwQd79UPA2eNQYevj7A2rAo5_aj3K1YXlpUpXLnu9KTKDOATgDJbR7QIPnGM9BHFJ0S1BWf_YZ_wnthCvxG2cESzBnay2xvKN5Qq3msAJknrzDAJtTf5PZUUfqwLqL0KdByF63U1xQGVelFv6TB0B-fJ3xbgiCT4pVsZ0xSOJu2O31beTjvIWcz8wGaULF19Ybq6huMOd_kny_TjdoAsi1SBrXB-cO3b0_JZk5sxFB003oDhDq8b4y8Xmt5Cp_ahRJIRGdEbZ2eGSIsZJ4xDgNiCu-kX7CpXCeVvSaBXCPBsLIFUeSTjgD88oAPAFVhA7SBz4EoqqE4RJFCO-1JLtGrHeU0mzFnvWzbXSmw46scMOCTZjUWAmiCl39X-F4T3IaXxi-rjXjyoZnPdAyKd0vgRQWvlPevdr4wCC4EkEcg_qcfJPC_7yIk38ubu3-f77QAkr-BUtq-zKXrWbmTpzH-571j4jdQ81jmhq9e2ccBOenV_JMCfHkUp2xtOoqyQusfYdf1eTRU61xd7G_DwFEV3nDvlrkiddcfjmG-H48zK12WWZ7Fj8KR-tC7eVk4ewaks1RVeJ57vwlxY0v2eB8tBysTMwMSBSzXcZGEobIpIk98X_TTVWiGZduM5NL8SU0OssuLROnILpn_wZqwPDzAiktfF0HRkEr64aVmJ5HJMWOGWlp0kLk4El3lBtH94OiVOlp_5mcpqYKqqXssYErIqp5cQwiVHIqx3zCraQCdlL81HlAAkvnkYmX27tO_5eVCog7SvLEK1n-vevctnBH6oVXTITFsTDk0mSw7zpXClRYaviUI9uCMtvehDM-MsK4q6QLv9toAlQrq6be_WjOLJLz_91D1MdVF9zsdXc9Oi_j-GJl8XvUxjmQ0_dh4DgOXq1Fi0AZzKdNM7ejy9fKNq6F2Vj3FchKiJZuHJDeCTQOzYzk0WrKXtcAUYZahVzlU5KdoWyOjPV9gVgBtNo6uWpEsLDjlKcURqz2hNV7KoEW5sfLfn_1hWnVL-Naubk4AQ_F_utXIKYPR_D7GQ_-JuwZEAYYEWzYc_s-omDushPjVouIoGntWSdfaifbQNBzRTi__hwApl0kNK1Y0Bx_MUdjEsv3DwYJeRy6xm9LLfhIb3y4ylpVyAHhXZ58JHRM4nK0S9c6pSPnDbUP1LaqNmcp3629NfKhRPea3HUVnUU-sF9litUnzh5X-OLl79qiZqGcUR1RP_XfwIF0eFeIHWOCa5DFVaaf8kFE5neYkDNqKWuSnviGk43yDoIWfUTRVQ0USL3B3icyN2OIFUS4i2VL4eNlBJOGLWG2DtHIqvDC_fLw5432E5zoJ4XbGNS5s1LeOmE17O6G7rWPb8kTS8vPxmFVC3d747a_vdiPeff1h6KxFIPrjq4Vh5knCCF_vU26-rCuiY4tppVeKwr042FWHXK5ZA4SL-6fD68bn_mG8MkI17LWsP66cNkoKM4CqN3UqKmga4URkqhT-BtKYYqIH4FISD3wStc0aZ4iyaELJYuVzQMuI4R3xNN1lhBtgiHPHaVdCIXt763-z1rzgvCSxSoPAYfJ2nIrNQ6GDpoCT-c1tFG-kO-1uxR8U4wj-MGlD4FLk4Ggva2O9pK9gGzVCp1OtP2xSMZIabuApeg2yhL23DIAqsy5ImlQiN8EvJfhcaJ_3bvVdMV6LLJ5HiU9-VawIVT9MJM-EkFHeiCQS3FY05hLS7rOSZ3H7ZiZv_rkOX6mTpkoHgtR1A6H8aaNyNAN7JeTEbAvzVC5RLLe-egMWhMW9Khbx4IZxlYcZ2f_V_EIPwTs-0L9UkxeBE-syP9dZJKWk4ZI-poD8u6u653EiXJ3CWdBFFeecNwXvWCOLq9b900vl8XR1i-VTGmGIpWmmvPv04OIpFsZV0TWE9WPbt11Bd7yc9WIcIYDMunvSdu7CqQgtwU1V5Wd-t8XfbA0xUFEzjJbadLDaxeefmLJL-S96p0ZypHf5C90sgAuBB87NSwUqWZ4hN6bhTJUF6e2OjOFgXj2DJMiALx0hxcOxgDpsyv2PSQ6X4K6N364MwHnmzDFyq3XboEhS056nGOIAvzffs9696WXVHfKIUSzioEo06gicN-aLxryjvSmcvBs2EeUeJuzArKVSxHjrhEleirkHZSc7pG6BiZRjlbkBu_wy7-uhJdlo98q15LSxa-W7yMYSLUYsMO4JSxUhpna8K4tWLAhnZTwLzvUvSERGaThVC1KtQL4yqfKFj-B4JSMuU6uYL0H0KLgE0UIuxdoyIOAZHUT_qgLd8Einq250_Q-SWO7LU0DDixmXNWclpndSxIMxJDowlpf_X0cXJG7GaUZh_ZbURU1J2J9_Nwhh61venb66vDvdEWCDCRqUsVtu53Gh-Svgq7z7-eukWjav3XXLTOjLICs14-F_JI24KsOL2m2rdqv_CTf-kme8s1PFss5fMsPHZFohlD76B8piylWnNl4jAM9lScAkYPOZftQdWnaZ5HUogpGatY5kPa7owDfbTWrNJLxp0LO1wjqQHxoSIdvxOginZo_zOMdolFJde-ag76BOM12JZixaW6fpy8uAHacsjLHeu0Od7I6uWeoVH27EwGeaiYD810nE9hBvwWV29GEzMKQ8yZWBgPp90IrjmGmT27VQ9uECMgH_-Sg-hBdAC2fOStYs0F03fii_gPaG3vK04zrm-t6kp9pj77j7x6lvhvRuXJ5wTucWpBDAW5Fj_OPelEkZO25s83QgfqGBOEQKPiKsU=
+import asyncio
+from datetime import date, timedelta
+from typing import Any
+import httpx
+
+from app.clients.massive_client import MassiveClient
+
+
+TODAY = date.today()
+DEFAULT_FROM = (TODAY - timedelta(days=730)).isoformat()
+DEFAULT_TO = TODAY.isoformat()
+
+
+def parse_tickers(raw: str) -> list[str]:
+    normalized = (
+        raw.replace("\n", ",")
+        .replace(";", ",")
+        .replace("|", ",")
+        .replace(" ", ",")
+    )
+
+    return sorted({
+        ticker.strip().upper()
+        for ticker in normalized.split(",")
+        if ticker.strip()
+    })
+
+
+def safe_number(value: Any) -> float | None:
+    try:
+        if value is None:
+            return None
+        return float(value)
+    except Exception:
+        return None
+
+
+def normalize_endpoint_result(raw: dict[str, Any] | list[Any] | None) -> list[dict[str, Any]]:
+    if raw is None:
+        return []
+
+    if isinstance(raw, list):
+        return [row for row in raw if isinstance(row, dict)]
+
+    if isinstance(raw, dict):
+        if isinstance(raw.get("results"), list):
+            return raw["results"]
+
+        if isinstance(raw.get("results"), dict):
+            return [raw["results"]]
+
+    return []
+
+
+def extract_aggs(raw: dict[str, Any] | None) -> list[dict[str, Any]]:
+    rows = (raw or {}).get("results") or []
+    cleaned = []
+
+    for row in rows:
+        cleaned.append({
+            "timestamp": row.get("t"),
+            "open": safe_number(row.get("o")),
+            "high": safe_number(row.get("h")),
+            "low": safe_number(row.get("l")),
+            "close": safe_number(row.get("c")),
+            "volume": safe_number(row.get("v")),
+            "vwap": safe_number(row.get("vw")),
+            "transactions": row.get("n"),
+        })
+
+    return cleaned
+
+
+def extract_latest_from_snapshot(snapshot: dict[str, Any] | None) -> dict[str, Any]:
+    result = (snapshot or {}).get("ticker") or (snapshot or {}).get("results") or (snapshot or {})
+
+    day = result.get("day") or {}
+    prev_day = result.get("prevDay") or result.get("prev_day") or {}
+    last_trade = result.get("lastTrade") or result.get("last_trade") or {}
+    last_quote = result.get("lastQuote") or result.get("last_quote") or {}
+
+    last_price = (
+        safe_number(last_trade.get("p"))
+        or safe_number(day.get("c"))
+        or safe_number(prev_day.get("c"))
+    )
+
+    previous_close = safe_number(prev_day.get("c"))
+    change = None
+    change_percent = None
+
+    if last_price is not None and previous_close not in (None, 0):
+        change = last_price - previous_close
+        change_percent = (change / previous_close) * 100
+
+    return {
+        "price": last_price,
+        "previous_close": previous_close,
+        "change": change,
+        "change_percent": change_percent,
+        "day_open": safe_number(day.get("o")),
+        "day_high": safe_number(day.get("h")),
+        "day_low": safe_number(day.get("l")),
+        "day_close": safe_number(day.get("c")),
+        "day_volume": safe_number(day.get("v")),
+        "last_trade_timestamp": last_trade.get("t"),
+        "bid": safe_number(last_quote.get("p") or last_quote.get("bp")),
+        "ask": safe_number(last_quote.get("P") or last_quote.get("ap")),
+    }
+
+
+def latest_financial_period(rows):
+    if not rows:
+        return None
+
+    def date_key(row):
+        return (
+            row.get("filing_date")
+            or row.get("end_date")
+            or row.get("report_period")
+            or row.get("fiscal_period_end_date")
+            or row.get("period_of_report_date")
+            or ""
+        )
+
+    return sorted(rows, key=date_key, reverse=True)[0]
+
+async def guarded_call(
+    client: MassiveClient,
+    label: str,
+    path: str,
+    params: dict[str, Any] | None = None,
+) -> tuple[str, dict[str, Any]]:
+    try:
+        data = await client.get(path, params)
+        return label, {"ok": True, "data": data, "error": None}
+    except Exception as exc:
+        return label, {"ok": False, "data": None, "error": str(exc)}
+
+
+async def fetch_ticker_bundle(
+    client: MassiveClient,
+    ticker: str,
+    from_date: str,
+    to_date: str,
+) -> dict[str, Any]:
+    calls = [
+        guarded_call(
+            client,
+            "snapshot",
+            f"/v2/snapshot/locale/us/markets/stocks/tickers/{ticker}",
+        ),
+        guarded_call(
+            client,
+            "daily_bars",
+            f"/v2/aggs/ticker/{ticker}/range/1/day/{from_date}/{to_date}",
+            {
+                "adjusted": "true",
+                "sort": "asc",
+                "limit": 50000,
+            },
+        ),
+        guarded_call(
+            client,
+            "previous_day",
+            f"/v2/aggs/ticker/{ticker}/prev",
+            {"adjusted": "true"},
+        ),
+        guarded_call(
+            client,
+            "dividends",
+            "/stocks/v1/dividends",
+            {"ticker": ticker, "limit": 100},
+        ),
+        guarded_call(
+            client,
+            "splits",
+            "/stocks/v1/splits",
+            {"ticker": ticker, "limit": 100},
+        ),
+        guarded_call(
+            client,
+            "ratios",
+            "/stocks/financials/v1/ratios",
+            {"ticker": ticker, "limit": 12},
+        ),
+        guarded_call(
+            client,
+            "income_statements",
+            "/stocks/financials/v1/income-statements",
+            {"tickers": ticker, "limit": 20, "sort": "period_end.desc"},
+        ),
+        guarded_call(
+            client,
+            "balance_sheets",
+            "/stocks/financials/v1/balance-sheets",
+            {"tickers": ticker, "limit": 20, "sort": "period_end.desc"},
+        ),
+        guarded_call(
+            client,
+            "cash_flow_statements",
+            "/stocks/financials/v1/cash-flow-statements",
+            {"tickers": ticker, "limit": 20, "sort": "period_end.desc"},
+        ),
+        guarded_call(
+            client,
+            "news",
+            "/v2/reference/news",
+            {"ticker":ticker,"limit":5,"order":"desc","sort":"published_utc"}),
+        guarded_call(client,"quotes",f"/v3/quotes/{ticker}",{"limit":100,"sort":"sip_timestamp","order":"desc"}),
+        guarded_call(client,"trades",f"/v3/trades/{ticker}",{"limit":100,"sort":"sip_timestamp","order":"desc"}),
+    ]
+
+    raw_results = dict(await asyncio.gather(*calls))
+    snapshot_raw = raw_results["snapshot"]["data"] if raw_results["snapshot"]["ok"] else {}
+    bars_raw = raw_results["daily_bars"]["data"] if raw_results["daily_bars"]["ok"] else {}
+
+    ratios = normalize_endpoint_result(raw_results["ratios"]["data"]) if raw_results["ratios"]["ok"] else []
+    income = normalize_endpoint_result(raw_results["income_statements"]["data"]) if raw_results["income_statements"]["ok"] else []
+    balance = normalize_endpoint_result(raw_results["balance_sheets"]["data"]) if raw_results["balance_sheets"]["ok"] else []
+    cash_flow = normalize_endpoint_result(raw_results["cash_flow_statements"]["data"]) if raw_results["cash_flow_statements"]["ok"] else []
+    dividends = normalize_endpoint_result(raw_results["dividends"]["data"]) if raw_results["dividends"]["ok"] else []
+    splits = normalize_endpoint_result(raw_results["splits"]["data"]) if raw_results["splits"]["ok"] else []
+    news=normalize_endpoint_result(raw_results["news"]["data"]) if raw_results["news"]["ok"] else []
+
+    return {
+        "ticker": ticker,
+
+        "overview": extract_latest_from_snapshot(snapshot_raw),
+        "price_history": extract_aggs(bars_raw),
+        "fundamentals": {
+            "latest_income_statement": latest_financial_period(income),
+            "latest_balance_sheet": latest_financial_period(balance),
+            "latest_cash_flow_statement": latest_financial_period(cash_flow),
+            "income_statements": income,
+            "balance_sheets": balance,
+            "cash_flow_statements": cash_flow,
+        },
+        "ratios": ratios,
+        "corporate_actions": {
+            "dividends": dividends,
+            "splits": splits,
+        },
+        "news": news,
+        "supply_chain_exposure": {
+            "status": "placeholder",
+            "message": (
+                "Future module: join ticker-level market movement with order book, "
+                "supplier, inventory, backlog, lead-time, and demand signal data."
+            ),
+            "suggested_partitions": [
+                "symbol",
+                "event_date",
+                "source_system",
+                "ingestion_hour",
+            ],
+        },
+        "endpoint_health": {
+            key: {
+                "ok": value["ok"],
+                "error": value["error"],
+            }
+            for key, value in raw_results.items()
+        },
+    }
+
+
+async def get_stock_dashboard(
+    tickers: str,
+    from_date: str = DEFAULT_FROM,
+    to_date: str = DEFAULT_TO,
+) -> dict[str, Any]:
+    parsed = parse_tickers(tickers)
+
+    if not parsed:
+        return {
+            "count": 0,
+            "tickers": [],
+            "from_date": from_date,
+            "to_date": to_date,
+            "results": [],
+            "error": "No valid tickers supplied.",
+        }
+
+    async with httpx.AsyncClient() as http_client:
+        massive_client = MassiveClient(http_client)
+        results = await asyncio.gather(*[
+            fetch_ticker_bundle(massive_client, ticker, from_date, to_date)
+            for ticker in parsed
+        ])
+
+    return {
+        "count": len(parsed),
+        "tickers": parsed,
+        "from_date": from_date,
+        "to_date": to_date,
+        "results": results,
+    }

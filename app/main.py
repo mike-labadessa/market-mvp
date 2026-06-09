@@ -1,1 +1,69 @@
-gAAAAABqJ50LzTRo33d3gDh_2og14xAC4gpeTmhn0xXHYv3Mz8Ppxws-SuXWTQo1ElveNSmWli_hGVm_afI-nLpcj0xG0sZTDTEvZycp7xhtRoBGu3ll6c_Qw2SSgYfQGmXaCcHRkwJudS3LKYoazxSC5q5IopdoYIWgixjQ4OqbKGl30WQvSsb9jmaiT4yBs1eTTdNKmLMk7H7_1Zw0Qtydjo_uKnx0GJJanSHnLndUHVfBGrdLtg2fVYdBqPusZs_hxF_x0nGHSCWkxPus5V64ZvKMA1q-HDHslL0V7BmgDudAyMs1xLqhamgKXo8EDUzVd_ZW_ci1lxgYqeb1rGGJZUjR3OqCGvLHAtIlwK5WknZe2iGr-Zi0BuwYeeEioLFBdZGgAZN2DTDljDELc590NSObS2PfgqtZ8MnrIy5lF9AxSqKqtFdJ03dRW73TyY0jNxLa2Q6MtnMUcw6M16FIkw25Lzkc5yidH8cgZ6TvNyU9n9HljVt2Kl1lCxtHmOdQ3uvJpSIyKaWaJPmIIXpIsO6PVlrhQjTUZ_e2q2Dz95NBcLztJS96CWdZUaq4c4_YDjlFcY7WCjFIha7mPC86StioKOW6sABRPAY3lZ6vH4JmBOOjPhDKqAMtBkL0g56YXtE63JmeEfEhxyrFPBKUit1Um83auuwY0eUHqh3BIV0k31AzKgBI3dZ3qml4HO3uUxBIoQHIzgx91bb4auClQeuGrofu5g5gXNzLW_OjNmsFCgQksFjaaHByJEY8JbV0wy7nZXIwKLV_5nousRMnF4ArfD7Yobd6p6sxrxtCxkrTfFDeHtsAG7NbcIboNfSm-1xvKawQnS4rN79BycrEpaMigqYiYvXUAuqQjY9PVlYSxPSCmoAebyMOAoTJ8V0SbSb1y-wGqK4LvVPtxYPJB8mOVveWoCghtm7m6SnBgbUrexY8qVh0D7KlGq3YUOZj_mTYkb0O2m0NJuoPa-z5CoUA3jDD5F74df2vs5h1jUliKR3o7v6aGoa1_TT2jhuz9CD_ZAmcBe2z3fNKVRubWp-3kMk4a4joodnDHMgrDLIIHCW4f3dHB1kyNyreNvmbzPWXyOxiLawMNXMtZwyDvmAYzMcw9ZQXJil2nQBI0g_VfhxxrPV9kzomohFnHAO1RYrUESd3OfmEXzflSKZJM-GCHNKVunnAHufwYAROGpzzbrWZEAW3yl2JA4M4ESXAZgHleBYAudVf_Yl3Yuo3ZDq6eyRexH3fkVF3U3tb2frYi_-6y-LBjRNssTCoQ0A_dp6wlU_CKdDjPOBbrfZhFOWAHJJamI-NqlMk5-9Uu4K7yIuSfa_BddeagjaQDMK8KwtRg8M2N3gNCWxFKD7e8MuRgz2iWiYpc5iIA_A9MHuyZmMpTm_xvODCLOwmW-zM0naCFBDtBp_2X-7n5A5MPOGKJH1xCIZhlnD1cq9ed_8HfGB0QWOf0TFXkc8_UY9tSQ4jQLxgvAVm7ylGErkv2va0ZzIERauftwfLq3XC82LiQo-xjyLcAMWwPY9ps6o5KGfA77YAAGMdyqO3TzQELxZ6OQyrYz-hCBMDm92EOb52t-9xwgnG_k8UzvOpVoKRE8SxZ5G_tEddFCnotH2sJQXoe2r6jmN1DXhYg6dfhyz38QyudFB86wMqEPHNWMp0seHGF5bkqto9wu9Ml48C9aeQtwQ95zLalFYzcezoXazdeBjhEdn1lp24koW9-al9P1KsKJWh-w5jtIAtZm7tRrTJ-2CbJszenqrbsv2-8lC9v4U3GlNkkkpZmkcibbJ_ufPXUo-UeMnk532km2-MJWZBc9GW0fcs8gVGz8fomteimLLqvTx475Q1ibIapBHrUUzEm9LxIWDXv-augKHRBaDMXdUIjP8CV7DBi-SHb0y9jjn3jT12cgIORZKJ09KM-pOP4j89SeEa-OGwYtZJvRAVQVePxqXdlhEWkAeMwu6RoJJECvJS_KKSCpnEOjhwQEO97aNW6eD98-HmIqsZvYEk1apIfAwdOSESQ4qqnfaFkzH3YEBIaJHLNHC8d1Cz_pOydi14eEA_VacvxKuSRwqxpbnYZd6cOhCOs6FFbSalLfyjBILlt3zXpMscyKGNAUu7_5hOcdHxAS1OYry61u4iDv5wUqNY3XHrI7ZVn8fcwsotMaOHpQSFn1Xt2S6xGjgsS6EwnchP0triAPS0FBvm_LACtW2V8Dk65dPxfaI99kZKRaxq5WMTUpzOEzitTYDd4Id1Cq-LdG_idsLAwqo96gWoXPXW9VSqH2Z6JFz9SqiVhkyh29UZIWgYU1GQwzQ9dQHhrUx2aHbAq7Zfd0A8fXONAwTKj0lQFacshSJ5ibdlsJt4WxDUWnfqQZWp0a9jHsmUkIl5d4CyueE5-s-EPj_7IbL3JNDTBHnWGM_DZWLndJbXyRpghsv8LlLIZNSJC5VFG722nkqIymNCd-snG1PCJSuYRSAm_C7COWG1oZM5P9TC8aBcSyofwnBB4hR9wmrdUfb5Qt-n1_cIFeJ4L2Qyvlii0S47qYfcCufP9SDnYRXM8mrtZ54ibAtRQIdhnwduZQKXpMPVZ-0_A4td59wBF9ZPe6FIw4zfr2hzF1vImXPAoX76311ku5bQZQ6Wy6bmK0Z46CXX6fQtkOJGcvXUevy-E1xBm9fiXKmFGX-i4dYCbznCFmN26r1GxRcKe-qa6GkX0m2g9c5X9Y-D-BjaXA==6T9g7UhJ5nrpfWdGCYLXP6HDpifCm508BvjuAAjukwQ=
+from pathlib import Path
+
+from fastapi import FastAPI, Query
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
+from app.services.research_service import analyze_research
+from app.config import settings
+from app.services.stock_service import DEFAULT_FROM, DEFAULT_TO, get_stock_dashboard
+from app.services.financial_ml_service import run_financial_ml_analysis
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+STATIC_DIR = PROJECT_ROOT / "static"
+
+app = FastAPI(
+    title="Market MVP ",
+    description="Pull-on-demand market data dashboard REST APIs.",
+    version="0.2.0",
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Tighten this before production.
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
+
+
+@app.get("/")
+async def index():
+    return FileResponse(STATIC_DIR / "index.html")
+
+
+@app.get("/api/health")
+async def health():
+    return {
+        "ok": True,
+        "massive_api_key_configured": bool(settings.MASSIVE_API_KEY),
+        "massive_base_url": settings.MASSIVE_BASE_URL,
+    }
+
+
+@app.get("/api/stocks")
+async def get_stocks(
+    tickers: str = Query(
+        ...,
+        description="Comma, semicolon, pipe, space, or newline-delimited ticker symbols.",
+    ),
+    from_date: str = Query(
+        DEFAULT_FROM,
+        description="Start date for daily aggregate bars, YYYY-MM-DD.",
+    ),
+    to_date: str = Query(
+        DEFAULT_TO,
+        description="End date for daily aggregate bars, YYYY-MM-DD.",
+    ),
+):
+    return await get_stock_dashboard(tickers, from_date, to_date)
+
+@app.post("/api/research")
+async def research(payload:dict):
+    return await analyze_research(payload)
+
+@app.post("/api/financial-ml-analysis")
+async def financial_ml_analysis(payload:dict):
+    return await run_financial_ml_analysis(payload)

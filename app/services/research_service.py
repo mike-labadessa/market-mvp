@@ -1,1 +1,129 @@
-gAAAAABqJ50N54Uqwjn0DEUtH58dNKRuNAdwtF3OVnB6WpguyZ82I5gw3PMgVhEZSR-VX-BFi9VORpdYwUoAocdQg5nxZFJFyvKCfYqyRhiOi31mScsHW3aLyDy72GdRhzznAQZ_CYafA2rbQknfrSoxZZteHgV9DU3nQj8rrLtdQ_C7V_fSKa4xSRMSMtJMHRMcadg3mAzun-xDrJX6ok-6c0CC1UVDLraoDSakf9HMRGLTrBZmzU4wpQzh0M7gwSdMOJtYTs0zqJMxNnVN1w7NIE_ZgnXjUvOrZsfPZstKLvzuha9UeYRezuhIpn-wRkOwTaQY0CANVUYj9VLraVqZSGrJcVjxGn4lNP7BclGOgJZFjQDap0aRQWAqfs1zUm09G3Ji449db7_dKWu-M7r9IFltkSZnCbBjJ1T36Qz3Sh_rsEOy50buQsKlxsGnn1VkZQnJfnfYvwL_Gb5iknwV2UCMb2bqWHg6uXZ1kfpIMdaI5BDZ8MYHo-eJTrh2B2aiDv5HO_4apaiNc-rE-qN6mPI4XCDixvJaDvghGAcC8kn1OFo7dxz5DG03m2SiMvhYgIbbWNGee0uL75hzrcrcC601L1WKMJUc1IZ80XU5h4R6c2geRIICuZC77mQHBdXQkzA-5H6_8swCc5U1idKXctCyBF3FyCiGCx-FL_dixJogQaLO4A9Ng6DdhhwxEOy0AJPsMVUa4SgUlwyTmYq_96lKyRWA7LOQFOkTqoF8dL_u8uwk93Amw0uTZCq6soTANm8n17dcSGjCDJW8BX1dNMnPFI8WkyJ42-f1wNKkqJQaOu7BXsDiR8_m9P29i93EcHl6j5udyJBZE05O7Y9afwHmFrmqxQ0jar3fHXx8BJ3SddLUzJfv4XkjuvWbmKK1OGz8vGVaVEnhOHbpUMLjZK8VhiIRdNlRMyvGUF1D42oCwodOXK41OHgNeCzpXnEFK8TgOJE2w_todPvK7Nw8LDBvpo2lCfBtEKY4EnHL1jjRHqDOHwohJcVxaWocbNF7t_0cFVroSo1ikBlhW-ycsI1e-hLqP68YqMEL2lGByZ3JwKJgcn4-FDLT-o-aV0clGdCEZY8oEBSoCR2OwBXnYsKD-gln3XeULhIgdTU9dHB7Td1Jz0wP1z3VlgOPIrlEOsEUWmEW1MTgcDgpUhsMjM8kakBNMRjdN4sUMRuoMRJ36FqkgO017dXP1_kE2lVhP2wUjgYswQAyznONykSFG0s-NMw5AlESYBmUOSrlNdxmNHDATJtwKKmEFvkOkoTnxBGezxAlqvPx5TqXtadKfjNIcABrih5fMXYuTAFAKMHMre9NqTLmX7plCgzf228IEpv5c4HhASo5ssSP3yqui8F1Fz1dZ8U71NW5nTQsnFM6dkajkflb3On0rScn4rtAFIWoSL3c8vmu8yXqZMTFKOxiM67hdCl7-jPoL409rSGgsuU4i3xzhnaCLJCSymR8889cQczYikW61aOJliCiBl45UIo0BaWntlqHO1CxUjStTc3sCuHdPFe_lBW_ib8l40eZxOxZuisVbfK44c2253N2Oiinyb3EmqHe7XqfUUMLtmN0tvmZ3vS4e3aU_Ata6Ov3TEuHr2zptZCmuzBF6NfnmXEwGISlwi-qhv3S69317Zv7HgPOUM91xG-yajd6uYR-8JwjTh9KKtmXRXHSf12xqJVrNEjupIjuo-u-_f7U8iWCYhq0g8bhVcCBXav9eFahUErPRJPjtOyw09O_yVU7HKL2UTMwbI7PYpSddaL3Xo6SvOUohlRSkTVwcxG_EL-C4df3-8bxy9aVcYnS3yVEfu7NxfMZIC-5Qxrm9Qjhbz9qWqwgr-3FzPPYYzLRKkL75FdU4l6UvbNCQ85ny63wM8CC_I1Vgif5ZomQIIgQdBTai6DE0cM-v6s8GxBPHdSiYaMqzEgdCTza2fC5MfIpnlOTenZt2iNGAWIWWMxIguPYMdmsPLvx58fPqju305MRWob9MXEXXWfR76dkY8TpFweNlNzKjwT3iKk46y64feDChw-3clFA1cQYdcZTZfSueuiVxY61dXhZMCnA58srDs_z8nmM7Pssc98QW6qkaA1wSzKU0bSdmCVCpyrppxg3_kKGXiWCIdGKbQiYwC4f6TmIvBPWNGHwS8eKqWUF9qjrJEi1JS_SgXcNz1e3lD_6gdg3ZedXnb_ULzG7fVOxSRMPjwzCBy7tGRvnXyWDMbG1SNt0ls0zfZ4HFGjmc4f51yI8J2_i43o-hb4Tgc0FtqGRoT71_MrlNwtN9XLBX_gsqatxQHjNUeRQKHiLieuInk58rj3RzBeIdrg6qVO90kqr2GbQH9YEU0rXdAtJga1I2DeTd9tkYCFbOhBNkRkIt5wr_07mIkH8khjrFDfXvAP4oAagrjJNSg0KDkeU1UMXDFn6XCVpVUwTPqhXpeQtALrJJvof_fX9iHiYNR3vbABpVvQNRgZTO4a8uibMfebtqt52o7cGcyHJFqqLf7obaw-xaICzLL2dIBDpEWNP7cpCw5hSnG02hTWZ5CgYTP5iybJXpECw11nOtAFe8y1DHEytZTY5i_B7mAxfVm3RXV3gkwQeS_FVVCsD8sXTEKH85gpc_w-wSub-TravoMq05oNavguRSR3A0x2NTi3dP85W7Wnyj42nRx-U-FArDdflmLAXZzx3mYkJs5FE4MNjUvxurFDDMwFD-0AdDqHdfcm5OLyxNg0X7BdH0GdhGwAKjxqpwNQybrOSneNrykz-9C-TfNZTpwE_saJ28tWQZHoPNefMQU-Nx1HfLwgT8G7ZYURDnrfXX1KLxT9e2s65EDTSpSF-RjJwiJMSc-lncKz0EeSej6ZMu4ItMqDt5kYiT92LFMGb20reReIhnso0fyvNLR4MU3sQ7L3gObtejPVW-doKbtgEoAEoY1HUvz_GPicf-1Bj8Aw-2VJoq8Db9QQB6KxDC5gl499zPO7wuTdwxByAhY8pQ5_YraoH9nYUj1K7_Q9z70U_y6NgA6AhyD3Csx_Q-PlVjN4QaVRTyrfiNeItZdqPQeNYC3eUYYN3zUhhoYbWBe1sx_RX0u_XULsG6dn5ASDYG-GX8YOEJSk2UVoAsx_RcRUpQ8MTHZFfC_h5mFWPSb0g1H7PYTY21l-vrjJ1k4BL_IjLQYeZAVBAIG9C7AJQRqdeMWVV4P5wogE_RoA_3JxChRVwWs9xd_82oyhCTMxCOO8X09xUGqavIJEjmemqqr_uU3XEdJFeZF7RJ3f4NJzJ2G0txSc3fuq1rVR6UPe9OHymBCCJnEqusE87-HPDZ8CwONGH0nP86xe-Bt1NWdzy8JhvxBpZpbJRnJpvvQYUogspeLJ8Wza30g7zj_aqIFv8_LXrYDght48vc-D76m31q7I1QP8EBy1HSQd1BASukGZhxchxaiD3k9if13uTXvuuMzKUd1wZu9mzvmfF7oKFFC5ldfr9h5CMb_Bcf8CuItpCJX21Xfk0HdNnljUSX3OpbCeBeZvR9yL4spdMEDX-PfNc-RLcjxRTtuv4phTN4_TlrBDq0bXI4UPF_w2gJnTEyR7NIvwWve_-O6iGOA_G0aTCylLn_1c3pQWlmUtJPTIBHi2c8Zzh7NS6mn69aDAHk0-cBBGciOebMLKqJTko0Uh8Mu2CtAEAMDOqUIavIqLzz2CuuX0He4pCxoq5DpVqJXWCvlPd9ywwi96Jw2vDOGDTkPZS3TplMXlNIwZj2yq8M6ad724zR1NTK4DAZbT49llMVhdvA2Uu5JFbATWG0siSPc6l3DbihLvbHwr50oZD2AMMkpLt83Jb6x1nnZZE6AycYg5CbucBSZPOb9YdZhys39z5o9ekppJWlJap-MXXvIAo--_DvTBBAKpwvLicS_G3oe8Ut1a2Grb7PI9TkAr7BtM-4YbA7QBjWMwlQOlaBREtuZ6bepSHd4NCUcPl5SSW8NGn4gG989IGIL5WD2Uj-XXuoA-h4it77nbapCh_152Fu885DuDyimnsAfFWXhizC5ECIxfBJmP0ZeVaPRM6U9keAfpHIH0O-z5ga-ReiFn0PAaY3H7fHsG5kMAtsG0Voaun3uQVz7pkrOdqTPBGbEY3UgJNgP1s6d8BXnma-HBFffLpm3HiuyFy84Frf0ccoXqlCaO_MPyiNU0BVYxarbgBh2Ug5ZlGl3-iIJUQbEwmozMIwNelMarRcgNDxuXsLHrkUN7uRhE96OoqsExK40e_mgaQWgBytAN1IIIYUzFJbkLKlAU2uzSMUWQMcOzbT7xXzOFH3PvtVz6dK4ifLH-aM9ytkhMyZac0E6jnHTXD-ANDku2orjgQ566XK8wUjVwebsF9oHlX5LerUoIf1FRwE83lkTKsD_p_boFtgigN5hUhW5gNeG98N8oZGfFWiyCepy5pt4rscJg79Krg2OFnh8Rbf7e2C49aTX1LGNh-Bb7nCGg0zM5iYlHVkghU0B9_JsGi8atO5W-P5gJ5S2-8AEp24jSDh_AG4vWvcYzMkZkJGyoCP-PsKZn6Hcfc_DWQVSfxtb5r6rHbdnmTv3UNSO93sGrEEf8eCI1Ur_ZpwSWmvn9HrCkFXucV4RQz2Rww5D8j8zpou8koGA-2GcW8gaS7gl3g6U3xIT1dAgxQgPXHOjU8jAUTcYuIMZzNdWRhxyt5E2urJt1iKVQY-6Z9LNh-tCGS-v-d-dmLPYkC4bpjlkcM1owSASLc69EYW4iEcJFtuoAKII1Lqb1esrRTO4xb67pnacYIfAfE_OgBMYimYfZzSzl4cXd5uL3AsT5D3z7o2CanXWdd6LXXe1UUJ0Kx9pbB2htqffhm3ZaxthrKi2Eb5oCTd9vDO3mQHhvXU5u-jlEt0fnqr0li0lQ8sLseJRGv0mTbigUjRiQqQlDWoRHEVUroAVr-fVib0vpuXy0VN_13f9ivjpdkVXV_ahOiQYiQtV-05-qQo31YEzQcLomxxWOfTEAEiuFDcuAqhJS8lEnOpGesx-Dr3RkM7TS5uZEO2Fnmmgu2RYj-NRm0EIHNS2xHRMFJpQRTw2YaRAoe0sD8J2aD7V7GxlRQo8sUecqujJaYAMSf_5BI-wVUANMqylWS_ESoGVEoF7JLnIb6YdmrkSwhIaOphPF27-9CxZmLRAsU4a5mPmwUUxp5h4vpkP7vgpupRwsrb84hiP9ktbgTDNkeYNK8pSQ1eJxF-tjap-dlWUMb9C-y2Sw4y0bA2lhNe6ZKqLay0yDErnPv6AvcvA6TVFmqaPaMhPlwXsRYtiB-QhyxLSZ5ZNd6EX9huR7B5fKcaG2Hu5hGtH0M3WTE40fiDktB1f1a-NqQVUHqsmyHwMdv-2fZmwepIejfZzyJb9i4H3GYVXd0fseWfo3-IukX7K-2Hj9j6RFvhHn9hw1j_-4SejfaXb0647do7dWPZSV349hSm-pxyDmNUxV5bvVy1fK2z1lUBrLnCioc9bE-EyWm1GmnY-Kwq_AEMQEyH4bRqaEDBc77x4F-VnHYJASp_zrESfGXllhYCPWhTBviNTz-qllXQapNEesleUR9_vqzcTrmVRbfNI4Dl62vS0dhep1Yz8BLtRzH7vwXJ-CAwDw8KOACj5siv9Q_w9qYfXjXOVcjB9Kl9akMOIyNPYOeKpgC3YQjdTFC2-p0q3W2TjmlPCT6vDCkJRTq8JI7gGWco1Jzq3v-lhKI1p3zo8enGNnDwOr-3cszgJ1lFAgs2r16AFD1y1i6YhaeI1IpVvlkAlvZ6zOlce4MqXX3qLsrm7cHg192b3syhGwNeuchwMG1GK2n15vx7klZR9RHM4uVTdtAQFVSCfFqLwUq93AMWUJ-pm_JSqPZHaY1ORtUz_tyvNrC_wT6T1AqtocoxAXztWJGUPvtCUKzSDOGaIQn7q3wnVqu2T085isxXIbtvknTEUlUlabTL43jKfZcg0rGUNePWBza2ymnAbpqWqZUNqWQgSjmD5YTjilf-K4qnaDFby-04vN1yTfHNndtaZimnbRDwBlXsmt9OqrdKenZsUR0tU1H520CxAmyrdNqd4O_o83aEHazhMm4zbk0bvr2FF7HW60aYO79aDlmQrEl8EPzAtPRZt5mcWj52uNd6E7bBpJeJapgbq60JBJyc1OVzrblUDkaoQxZu0GU-Ac-KJKIwumplxq1Sq8ZVqSPLR_dDI-D56qqr4160LUihphcApFreRcU40nGT1Qy8q_oGJnGp7Pi2KWTHJILbZKh0GnjvQkkfgYr47Un-zkpEQaEqNuqZgaCoZHrlx3egvr38kCFyhGWYIK1DyD7zYmToxAkmK66Mh5ur9GmHCU1vxMYfuUjzyiQetK5OPWjLFOge6NANfecl9hSe0QFDnZDjR0DtuRIC7f-Lz1HpbYJtyyc_YEWwfvykJSyrpTANfwyhTlFEUWAqFoe5y-IJ52OVek_UOXki7j8DX0_6R5jvkfIvGn-ZyKphbsDF9hB008vuFcDdv6eiLzEfxZDLBDdYj_gJFmMHaA3w0KbaVwduzbb9YanocRucMc_TBYtY__751EqqXSexoqn3o0PjxLYtutQOM88wFKpuEs_acbqbaydkou1dGFoKOT67vFTIViCU8I81i0L-PaXhB7P1476HaKc3QrPuPaJJP7597nQgD3_PTS-7x-1HsEmUPMgxq5wvKp44WP14BHXr24HtZgFso7qzhuePAF1LdmUqMOJt7IzrxcIXa5fm0nUag8j9AAkc5bJasiUYcnfTEhh45bze-8WJLmRYNxRUj4jHuX87PviVKEsE2BRrnlVqBVeJNgtRQyh0Xf5GLneZbtGs-55e5X2mLqe54CQsNnOQSBtSvtbznzIL2RGwbT1d5bPkfSsrsCrkV8aFpJ0PYbbCBT82G7AFrZbgEU2gftvjsz81DV0-xEirflSMEsNbiJufCHOqjS6kc1PUaFx7TL6HdP65qR5RJldzJcToSUKBWUG6DK_A-7Ww_c-HLbnVAztNyd_VDrqrwy5h7rbxnJlQgaFpwkjV71SDz2GiU0gXYtlllXvGWcoUIwmWtTvB-hmnNn-VN-mgcL5Ciy7C2p8JTVJaUyg2KWwqpUhAdx7hR2YE0pH5d4HdpptlzeUYRovWYnUsHAGjUt4pyK4vgv261zLPbchdKALdCwR0POg3cRRrqQeJSBzCjQBQSx5rUoYHgq1JUz-Umq2M3HjOtf30gzs37L_HXK5X6iwPNBbnYQve7PtRXGst-NaOyZAa_TVIUlugcxLumi10H0rpimf9ZTSc44xIMlQV5p7868H-jYQKAPb5NK6jXPP08RUJIqsJyF4Dv7WD5rTrSkB06Vtru4iNDEM77KWwwvq4OG-LHIxLdp01hE3WeL15bt6o17uXdIkC7NaDAsUTGKnPoUjS3yWBgmcxYtz3n4Ur_nUvKRLuDIFyWhoFgvVdJFM_e_EbiKfw-mQtIAIG565x5OkDuA2npsD7pkPPPwuoUyWqPsYgUUbhOxOE-KPOpHbhwgSJvQO2KwbgB8eEsipUFMwjexLm5hqApKuTn_DNs5kTOD1CSwTQTDRj5lHjDVezZCIb6Aol5fjn1Rug6czcUIvMFEhpzTq_vTQUGVNrLTlsb8L--t6n8TFx7phAXEqdVjUMmgLX9CroeTBwgzaE835Vp2LIsGPuYpNBcb6ykdUpQpoCC5pv0WuKmEQBbFw0v9EhNaKDgDFwi9Cl0OF9Vj1g6j4vvzrDbw-zpC-3LBE7dPVb2J47Y5ncPbbBdtdJxMLuEfOv4-UzBbx72lajwH_A_IaVlyjYuXj2IJDq-m8V332VFB_p4jE9roAI_Nm0C7o7oxy4_PvkXXG-waeMrDO5ox7FDeb976uR3zsMCZzDj_J4HZwgJ7cWd--AUQr4xYWqMBAr6RjvID10kANJQ2CRsIQS1p6LbpZMOrtgQOaJwq4ZGf89ZK5K4xLWpIUOxgt4HtKp91uMKqlPkjjgBSN95z02I4KWzM23van3E8srQjpbmPxKod457PAaqKHmaaC_xWz59PXLKOjA9Lpu8tHx4clQxf52GdDPN5qhvX5jFjSPwUxZ3SqeYTwAfk5lhBvvRT1jwy4HGqfbvUtuODLAIvvoN06kY0LjbaSPVfFgBl4LlBn-JACYy7kyd_Fizm1hf7eGRXfHQ9eBhlpin3tcufO80dU7sGReBDDY4IRDMyY-_cNhsWPYaItWvWkxIdIRBaxljOryw3TbuiTLT3GbCoAowI87bZ4kD8tNS6hIh3dRfWhh1D3q_FkMTcGxbEooNX7xr2jl9FWLDG9_5RmNRxcCrvOCKbR7_tVIuytdd-W2v_OoejjBgJXMDMvyDJnC1qaUqd9Yg8UU5Mx1Sy-YoPs12XG6IoAt9ncSZSKDg72w71T3tHwSGhtsUSnQwuEtNifPetbyneX7qVoU8gzKxoIVB-COLZ35YP8ebe9RTJRIx0s33Twz6m4pg_UQJFrJKwnQEGtk5mRV8C5YClXMM8FdGPGftAVT6hgYGkXXLKU0TuW9KbgAM8myvbyfXBWmTKIqmh3jQQl2erWGUmOp74AS5-K00CrcX25g2dMubd_oMkz7LR7cPhl7XY43ZiKwKAIgX8puWV4nzew46gzK1DTJ62AEYIY3Mo7KCoCr4FA6gEiOVSllly0c0LbqvQDwcJNzC9dcHen28XhtsCadGE-4lt_dksg0X6dZZBmVca3DTyNHOg2kA_sBI9PPT6rUib7nzSC92IBuYPyHq01umfP_BSjEeOnMg2mTqMGYMBSCsybgnUf5hzn-RkAnYVEX9ZyeMQKuxCjJpqdfheyHmx2Z_n66vr-InGAhw==3X3yY8FVdHcF2O_UTot4CiZPRx0RGn7ixbRJQ4JflR8=
+import asyncio,json
+from openai import AsyncOpenAI
+from google import genai
+from app.config import settings
+
+SYSTEM_PROMPT="""You are an enterprise investment banking research analyst. Provide decision-support research only, not financial advice. Analyze the full merged multi-ticker dataset together. Do not stop after the first ticker. Compare every ticker against the others. Return a structured output with: Portfolio Summary, Ranking Table, Per-Ticker Thesis, Buy/Hold/Sell Decision-Support Signal, Key Risks, Data Gaps, Diligence Questions. Every ticker must receive a Buy, Hold, or Sell signal with a short rationale based only on supplied data."""
+def pct(a,b):
+    try:
+        return None if a in (None,0) or b in (None,0) else (a-b)/b*100
+    except Exception:
+        return None
+
+def latest(rows,key):
+    vals=[r.get(key) for r in rows or [] if r.get(key) is not None]
+    return vals[-1] if vals else None
+
+def signal_from_score(score):
+    if score is None:
+        return "HOLD"
+    if score >= 70:
+        return "BUY"
+    if score <= 40:
+        return "SELL"
+    return "HOLD"
+
+def score_stock(m):
+    score = 50
+
+    if (m.get("price_90d_change_pct") or 0) > 10:
+        score += 8
+    if (m.get("price_90d_change_pct") or 0) < -10:
+        score -= 8
+    if (m.get("gross_margin_pct") or 0) > 40:
+        score += 8
+    if (m.get("net_margin_pct") or 0) > 15:
+        score += 8
+    if (m.get("ocf_margin_pct") or 0) > 15:
+        score += 8
+    if (m.get("liabilities_to_assets_pct") or 0) > 75:
+        score -= 10
+    if (m.get("operating_cash_flow") or 0) < 0:
+        score -= 15
+    if (m.get("net_income") or 0) < 0:
+        score -= 15
+
+    return max(0, min(100, score))
+
+def enrich_payload(payload):
+    merged=[]
+
+    for item in payload.get("results",[]):
+        history=item.get("price_history",[])
+        closes=[r.get("close") for r in history if r.get("close") is not None]
+        vols=[r.get("volume") for r in history if r.get("volume") is not None]
+
+        inc=item.get("fundamentals",{}).get("latest_income_statement") or {}
+        bal=item.get("fundamentals",{}).get("latest_balance_sheet") or {}
+        cf=item.get("fundamentals",{}).get("latest_cash_flow_statement") or {}
+
+        revenue=inc.get("revenue")
+        gross_profit=inc.get("gross_profit")
+        operating_income=inc.get("operating_income")
+        ebitda=inc.get("ebitda")
+        net_income=inc.get("net_income_loss_attributable_common_shareholders") or inc.get("consolidated_net_income_loss") or inc.get("net_income")
+        operating_cash_flow=cf.get("net_cash_from_operating_activities") or cf.get("cash_from_operating_activities_continuing_operations")
+        assets=bal.get("assets") or bal.get("total_assets")
+        liabilities=bal.get("liabilities") or bal.get("total_liabilities")
+
+        metrics={
+            "ticker":item.get("ticker"),
+            "news":[{"title":n.get("title"),"description":n.get("description"),"published_utc":n.get("published_utc"),"publisher":(n.get("publisher") or {}).get("name"),"sentiment_insights":n.get("insights",[]),"keywords":n.get("keywords",[])} for n in item.get("news",[])[:5]],
+            "latest_price":closes[-1] if closes else None,
+            "price_30d_change_pct":pct(closes[-1],closes[-31]) if len(closes)>31 else None,
+            "price_90d_change_pct":pct(closes[-1],closes[-91]) if len(closes)>91 else None,
+            "price_1y_change_pct":pct(closes[-1],closes[-253]) if len(closes)>253 else None,
+            "avg_volume_30d":sum(vols[-30:])/len(vols[-30:]) if len(vols)>=30 else None,
+            "revenue":revenue,
+            "gross_profit":gross_profit,
+            "operating_income":operating_income,
+            "ebitda":ebitda,
+            "net_income":net_income,
+            "operating_cash_flow":operating_cash_flow,
+            "assets":assets,
+            "liabilities":liabilities,
+            "gross_margin_pct":pct(gross_profit,revenue),
+            "operating_margin_pct":pct(operating_income,revenue),
+            "ebitda_margin_pct":pct(ebitda,revenue),
+            "net_margin_pct":pct(net_income,revenue),
+            "ocf_margin_pct":pct(operating_cash_flow,revenue),
+            "liabilities_to_assets_pct":pct(liabilities,assets),
+            "dividend_count":len(item.get("corporate_actions",{}).get("dividends",[])),
+            "split_count":len(item.get("corporate_actions",{}).get("splits",[])),
+            "endpoint_health":item.get("endpoint_health")
+        }
+
+        metrics["model_score"]=score_stock(metrics)
+        metrics["decision_support_signal"]=signal_from_score(metrics["model_score"])
+        merged.append(metrics)
+
+    ranked=sorted(merged,key=lambda x:x.get("model_score") or 0,reverse=True)
+
+    return {
+        "universe":payload.get("tickers"),
+        "count":payload.get("count"),
+        "merged_multi_ticker_analysis":ranked,
+        "ranking_instructions":"Compare all tickers together. Do not analyze only the first ticker. Every ticker must have a Buy/Hold/Sell decision-support signal."
+    }
+
+def compact_context(payload):
+    return json.dumps(enrich_payload(payload),default=str)[:20000]
+
+async def openai_research(payload):
+    if not settings.OPENAI_API_KEY:return {"provider":"openai","ok":False,"text":"OPENAI_API_KEY not configured."}
+    client=AsyncOpenAI(api_key=settings.OPENAI_API_KEY)
+    r=await client.responses.create(model="gpt-4.1-mini",input=[{"role":"system","content":SYSTEM_PROMPT},{"role":"user","content":"Analyze this market/fundamental dataset for enterprise decision support:\n"+compact_context(payload)}])
+    return {"provider":"openai","ok":True,"text":r.output_text}
+
+async def gemini_research(payload):
+    if not settings.GEMINI_API_KEY:return {"provider":"gemini","ok":False,"text":"GEMINI_API_KEY not configured."}
+    def run():
+        client=genai.Client(api_key=settings.GEMINI_API_KEY)
+        r=client.models.generate_content(model="gemini-2.5-flash",contents=SYSTEM_PROMPT+"\n\nAnalyze this market/fundamental dataset for enterprise decision support:\n"+compact_context(payload))
+        return r.text
+    text=await asyncio.to_thread(run)
+    return {"provider":"gemini","ok":True,"text":text}
+
+async def analyze_research(payload):
+    a,b=await asyncio.gather(openai_research(payload),gemini_research(payload))
+    return {"disclaimer":"Decision-support research only. Not financial advice.","openai":a,"gemini":b}

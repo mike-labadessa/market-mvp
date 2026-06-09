@@ -1,1 +1,48 @@
-gAAAAABqJ50LpMFZmhrbI6DncfYZWiArhBKQTv0fzxReZcwNTNCjHLdMeU8e_kAx5K7TRY-v682pJhv2gDoWHWW50OA05lURj4YkgFDgSyIp4vBeJyFJmFR7cEBovUFLRBkE9lAaT8RHZIcm67yJsho5HS8dmyqigV3Wud9Lmy7RSWlnm7gL7-U7D36TvGMTRaLI1g3OrAukEplncS75n0dU5CMr-3hIDLpo4KrrhXV4BIV-h1qMmb_koX4eRpUcu_6iGmc1tZ8Sul4T0RP-jwmXUpPMuIFHiwrXBgtseJ0ncT--dgXkRWEX5X0gvaCErZTZ66YPOsPlJaHhlf17yWueRcBo884env51BlOoM1TnNlKZ85G6TfO6zDmvt-3nHGSkGKipFQrol_HKqqiu8KFKW5CAwlnpre2_6r0PsYsZh1lkTt-ovdMUssYLTb9ix0iHecUP-EWKZqtvS9EAlKyJc1S1USqKX3cWjAHD1Cutt8s_2oZ2laE2nb7HDIL9XAT5S6VSIAHkb68lGUsZ16iOlNM_0RslvbF123WEG4zTV8DjWEOSoYsr5vAJJNWgrmMd20RzRiDYnC_QHr_FNwulQfzm-1W-ieBWKxDG_okHIpQdYiEkmrGg4D7s4-3oX6T1V60-C0IdGmllTOzrR-POuT6PsDITdbY1-FpJBqOqKLCs-q3kx05ldDiRpcq8UGpgU3A1ER9ZrykInGwQjuwZW6PeW4i6pigYrnn4SfWv-ynGlNSjNGWrYYgJGNvkmNpal_YNupLwrXEn7BnRaqg2wYdHOQVnXhgjZuSlsVJmjH3ED0pwG7r5XoE6170vFxwCu7bQeZ3Mj6tw89mrRzF3imfbePYpwhnRlMXySGq9jtzRHCr3CekYkSJO1_W1DfXKaCbKi9xDeZ1ofCYItKEjiFM0Lkd5Ne7YS9XllF5CV5oanHDaq_4bIdAtoRFqYz8DUzU7sLBllzqZveCr6DsP_gaajz72hFjump6bgFac8cYRHuLlwCzzBDl2bQKkgvTUuQb6uO-ait0ahw1M_2_dq97O9fK-LiTvc7GbTZzvY8-gG0M8P3v0qjW0XVyzsQ0AkdD6kw5ajQo8EYOKgeSbI1otOdhRxOG55McI0K1Pz9XDhAm6_SuHMA4poNBtA0dg3SDc1zDJDrYiZUZjb6hAVm7U6ICP7F5OAXiol1RMOd0dHQ4e3DEBCRW2nwjHtr0D_SnF2UwgZWRyrvIVFEasUbAg_l0eyV-pPQPyDwpZfW0RUCLZxU8_x23DX5Rh9w4OTooCcqX4h4oQOH_3xfSw3VbAesTfeRL8NaYPloUgd3qGUzB1xav9jCiP4RXLyReXVEVdhaayeDA_vV1Jso6r-zaV0RqL86QCKwoIz1UO46Ve4uoMYEk=t_NLXAK2f4eukSaariv6_SFqCH33QpmkUpoaTdC_Xv4=
+@echo off
+title Demand Supply Dashboard
+
+echo ==========================================
+echo Demand Supply Dashboard Startup
+echo ==========================================
+echo.
+
+REM Verify Python exists
+py --version >nul 2>&1
+if errorlevel 1 (
+    echo ERROR: Python is not installed or not on PATH.
+    pause
+    exit /b 1
+)
+
+REM Create venv if missing
+if not exist ".venv" (
+    echo Creating virtual environment...
+    py -m venv .venv
+)
+
+REM Activate
+call .venv\Scripts\activate.bat
+
+REM Install/update dependencies
+echo Installing dependencies...
+pip install -q -r requirements.txt
+
+REM Verify .env exists
+if not exist ".env" (
+    echo.
+    echo ERROR: .env file not found.
+    echo Copy .env.example to .env and add MASSIVE_API_KEY.
+    echo.
+    pause
+    exit /b 1
+)
+
+echo.
+echo Starting FastAPI...
+echo Dashboard URL:
+echo http://127.0.0.1:8000
+echo.
+
+uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload
+
+pause

@@ -1,1 +1,206 @@
-gAAAAABqJ50Np1KRpXQgIR4qf-o8udaJ-3AReH1U75wm9OvSi9geiYy6zyNPm09XDmOXTmgjJ8JnYye3q5qJ-MeKfHIdVo2ZUqkpz8pWCJC54s84Tk6K-RbxVgWY_YvzmXqxZx_AkZeZcWwlAMGeX1a2Z-2qfuKRXrETIIOLqRJNtIbu4jyPyqq-sI9PanZO-T-F5itcJSoIUGdiwKi7apu00g9O76rEdJn5N6wkZq9Ur1wWZZaRiskTR5qRHVEXnAvHVsSxiJwN2mY9wLfWLSB5BG7tp0kJe88JmJLpofy_V6F4ugNolkm6exdsM1h4eFA-u-zLfNJNzcGRoLaQ_hskrcmaKGnTiTh0sFQkmuxjzhObLxAMpQNvJfjBFKP4rCCOGAZ0El92cxF4XMpZOrThVe-NN5hMiv80Zsh_a4YxbBcJzcbg1HJZfbYY1Oe_N3IX0I6RmrL8PbZZqWXJcfdIruI2K6mHexJ5QOznLEWEgLS-jepiK6IkCHAga-3lWSalOdnTXp_Mke47UToB5DXSCzg6SRagsGjQsQBlaan8aQqmpgiXMFCFHEid-or1qIAcXZZf6wSzN2QHOqHUF3lCONVK_WOOxRGP5Ir6Mw0bxv_yFNuQk0A-eczXWfYM-4R7klKPzbDVB5rVgsFjK4XESgFqBbVSVutUFhf3yNMpAaU4L2oPIclp97-iyGkff4PPgJBm9uBDmcd3G3uFF9Uu1F8mdrifY2HKoR3eXGjTbQ0USxOBKSU1_MT7h_iPr7C3zJVsjKc4gq6Czb7WgNE39HlaXjr40YLUdymNZDdK2PTy-iBrUUL2c893t_9JRoaiopYJaQ_J9nb4jvoSHrJgRNWToire7BWh4A0tdBVI9nmVH4h03YsKzkf0r6jmA6cQD0_dCoxHB9mqirVWu3omwX4dpwryG1gWvxFFsesv9V4qwlMlC6lD_KMc7x9M-uWzb5G8eMcdJxnLGJTe9YcXx9ORm_OEcSt3KLN472BkfxBlj2M8F2j1VmwduoM_LIUy7folKHs5ulw3eLLV8OSJchMh-n3e9PuBl_U-u269sqb7N6lao4Dd57VjZOuyuPaoX7MBxO95zBj8Lgv08rHMVyiJbR9myKOxWWNQXg-soKiY1uZIXggcmb4TyiFiUPIvfWbmHhG2lZ-7e8pFMZ3Oh6kovfpN-_x6VMBuCtnUXQzksZTmLGFq1E8jj4RXEFJ1CEgHDKDbyFXPoxwSehCZRwTY-ctybtXMj7azRj8FUvZXa89b6SpB5Bgn5a2syJp77vjvw8mx5XiClzxZCAhllp1FxFRrZ2K87rwRygRmSi0Vhfx7lYZiIJJ0zpAAYA97IixEhEMMPD3wi6AdY0mPHxa3n7aUlosZEqGlhi20Rh_2-I6u4Lctz31cHqZL8pdNH-vRqn-5oUXgLSoZrX-QeNNnufavLPinVnO2j_C-bI9TefS1-L73CzhuqaOPWfsJbxiTA8BiAdGfVD76m2uOKCfBJDcLvycCUqtJ7Muf0ai3qWE4m2C8gmUT0oW00MpRP1N02PrdRRAFoaB_7A4ZgIqHbqiZUdpdOm9w5BBOzKNSQqupkW1AXiNgYEj5yaDJcQpDPKQE3VYSpj49G2pInVOd8rZY1q1BbXbfOw2eHZ03O5e2TuaAZQMMxIqbYaTo5QM70teI4kOGXMl1PAKNKuhPaCRr525eGcmvBd3pU-vPSnrwAVu0wyeScKoolcfsppvIajnlBZGneSyR7LPB1lkFU8X2fExpNEP_-3nC6GnlMH8yv3pnFXC9IzMwKJwIxoAvRrpsFcv4NrlJ43uqtVVzpWIjPA8fNeS07Mh9_ZAUgs6PF778j78MTbDEI_K1-fKBBL8lnodCKm97i7xaoytUy69c_86uJh_chczCZXk3gKtRBkMJ-kECaTb-Gu28VGJm_6aZ13KfSBhqDRq5vq35X7zkeGk3yi8HnmA6scE2B0h2i5JOZev_2qXKX2tP5JmRy_a6IJg9APQtlyLu-Bd9FWT4soD5LmWedqC52rFPjinEI15RE0LmSMyeDfknY0xdhekgBmKU0cFZccWm9RFnjvGNLnI6GkqI_YgNBLepXir9_hKNkGEfiLAyhtVOX0DPMU4gkJRU_kWHkudsLAv7qAGqRg8PjXla3TTyAQZudlqgFDRPqr8XLNFSpeD_MsxNLilrFT55RhFVSjf1AKQr8L_zZuLMPx3GASetn1waUq9GaR9LRhdCnM16nTromCyzr9u2WwR5bin8QUZ02KBgeCQQ7euc1Tvq58cHdQ4aqOhX0wM3uOneeh8QOOPPZVB_2JWK2ZRfBs7bqbpDtOcr5jDjeuRd1_00QMs2UWXPBbXKX3D-s5Bhzf4UW5FMuBkX5oWoSquASGIjvG8LDNFP3w5JEsQv312wQGv1L3Wwohqr4I5nVGefwc4cGPUZH79J5XLnZd5z7-wO6Gqpmg8vbRy5-dO2hZcX4yg7JxCrkJEBD8mOCa3OX-6DwwpJ85PdSroUyBuhu-HbCK_qsX9tOJmCRiPTbtAr9fH8KFNpxb7A5KP-GW6LbWR7ylgIVDpOCq5aOPIu-QfKTAb6IKvKxjZkzgUKm1o6l-H3fKzi6k12eIqJyJcKfUKL64Hdw_ZOuNCMsPZLAINjT4hxJFHgxQmMN72t3DHBt2Ozm7d3XWaDtapTVYjVY14IQKv5nZI9jMQjl3QGIKjyCJIYpsu1R2kf1__ZYPzJeEq_HaixGSFiszrDdTwrVFUALRWyUFW_MkomBseaeXV2B-JJI_pBgJSP4RvXMS40tgVW6utSINCImN4PVsqCyxPb3W_-gENFDqI9QfgREYyMev2SszGuQG3wQqHp6ZOU4Z1Jx3rI1rE4ty0_MOyryt5QE_irJA_4txaTN5nR-Zwl63bAVmoiE68HYJ6IhN0k6NNdluUM2YxM7CP9S8kPai9S0SqlujCDbkGIK8do93w7JEMJJnHOpJG32niQKSFvdJfcgKkj46hJvM7K3Rb8eR-W8YeCOZWytnvEoyI980Vbz-FeSDVhkRv8mmyj5UWAwZmaunoXJl5v1a8vozxsJpiHNYIcajPEgeWGMHkrRAF4b9cB4dBnJ5Ou9PdFqcwFZULwNH_1_jORoLmhgaUtv0z2BNHAub-92mQlgf_M9_MM8PY671ljW7Lbi7kvEEL6WnOst-UQrGCrQe97I9_vR8-36mQtDlO5AJ0H5hh2len_cE3fSHCuCLVnrxD1GaadzAjsLpRpC5tVPhPbpJS4l4jCZ0E54I-7Pd1OpyguGBlMj1ggCIgTJN-DvR1-Efk6wpxcWd-8jD9YvJZziM_rkjEqvG3anCa1Wrv1gSsSKNsDmbC7pzw3_4e7qPIoGV-1o4UbVEOD3jz8UblCgPRsY2fw5Yjn3Y8ihkLrpRPmlxtW_ei4RbdcGZlYecaTYrLLpe2VcM9cK9-E515fVimCuB5OsIRoQ4hgC7KlnirQcpbDn1-nePMq6PBw09aLMXs8x4_49fW5xkO4S02y74VgcFLsYicT02M9m0GP0QSdhyc0-lQiHvw--iUf8Zbh_AGpjinTac1wIWNASyd6msjqZcKDg5bngaPF8Yl0G7qreZ259shqM7rNtbreVmQpDXYF2vmkSKBP52O3iqiSrZ84dCeIqUaYREvv-SN4u5p6hNQx6Es24H-o9g2c3p1AXeuxfJQrRS3fF55t_qreKALjlBC40OhlnVAh_aX7D0d5moqSGhlDfXte4zDgNzNKZVx8FoyqzpxbDarNJU1xWg_WoiSbmsdeelcBhdVJdDfwd75CTk4Sm2OAlqSDGI_RenEAuMY3x86fWtyQRSvDWrXaPm2NZGVHNhdkSaiWeN1lMrm1MEaoh_I3YKSjAfOyxHjxyQmX9-L-pHCXUwP4RxnFZn8p9IIsp8vfcPNf-8QyjPVr_yH6AkbFpsm-ukZc6ENoSZ_QEiL9q6MpddvCDs4uOpq9tnuYdhDX2kWLea3gI8JlPxu4AGKzbfKuWWrS-wAVXEK3TOrFSigFFqE7_qlB_DHAOCbyEoySCz-LzXMbApntJ-rHTyHUWcL6UNFDcuSsEHm5asr0WCHPcRc65gwyTd_MUVhjhxr0TVinsfoorEJnIeKlwP9Tzv2P6sFL9dv9ILV2ECwiyAJ05fCj-kTwXFgo0m_ieUsLTpu8-5JgXP8c5YJdcE5syAeqDV7JY_w0GJlMTD3rQ1tkxEQTNekLNYGDUJcAA7_S-ivbiSxhi8NyQU7ZL7DdddaWrM5D7Y8kru1Ni8dAforwC-xIaZDQY8cCUrP1eMLC6XgfrLRBn_RWzl6ade_zUDaX09nozfqdhPUn_75BsGyrV0NaRiDKN4tcOLMjH953AXee80RJXsl5-A5CvBdZj6fXxKRQtNZlqRjlw1HRJzxQrcVlaSTO9CQHUHy6Tn8dbrX-S6ASMbXVN7pjFUaniNQ8k6eZj8KqcKr8ch7xPrsxpiWnz_Er791DUPuAszk7wv_NSrKe7zpyfJt_XFCDnzS8EKJkCpI0y_qct9pTaxdC-BPmQh3k-HU6QhoFH8PSFFowJYQUFt_AJpcQ6hYxkqcez_NpxOW44PyGJEhC--wmxAssl6AYIPFzWp1Cn0GyASXuKr5ODpVfxNcmgAXFUAOQdvXo4SMjMrV_vEa1bvTHnJd6eDki0esUR6_O-c3DOFzU1rJudtagU7RqmwgmoxE-PvFJBeq8sQoxz-srXVdUzVLBYnkEijgLhC50EP6fGhwBH_F9QAhDyDkjjXQpUllwvGXJbJzJ6oSvck0VoxvZitLSDtNH5AeODzWohlpvY6T_4UhofpfbKJ-tHL9wCy76IgyOhNd1KLYSvOGA1pi03FgNgbOOb8HcvdaYUMpF8ycaeF5Tav2avkmGTVxUgJmUPL_S8_o9KaomjSvwTp1LHpB0LcqecKzDeNOCTpTogWYfbDjbfJ5wG2y_j_sibCcyaR7eNoqPQX8bYuQZp9hXewnmQqzWx7KTO4TgwE8-n2XxpyLRhvfJ4aUJqCFsq8_xqWOdMuj9lTcZhL7ErhQ8G7s2DbiVprOMemzImz5yJ8TCYbnX6-n4yX2pspY_kbhTn-Iu8BI_pK6KDcjyQAR_YhnMHXl7rvcYEw1a9wf6OSMs0JoV2gO3z5uf6_9jiGSUKN3jqkPzMTIvpMaGFLZ30_aFissk162wiWUiO0CQeORuhM3Svwbg6POwHEduQJNOMVSLJDTeQx9xa-6TkjcJeMOXXDgnkj4B2QTCAoNlAVC59KHdmp3_3M5Pmpn3ToR-nWb0KOGcPye_7yWMLH4YSZtQ3_Pl6z-MAWiCIuW_NA6HFZY3lT2FTgWFSnTJzv0EjEI3y8KRpyz_HWHRQnMh7GMoQHxL7vuY0jiW6pOLjJF1Irf_VvldGFs9kCt1yxOUnMLlNuWW7ZxJivdXTHGuh0jpwR9z-hWHWrG4uLyNtT5hZ5jpm_ZtUpYi-kGJ_8cSbn8eMeoP2hioMgEEvaX_lYqB-ikXc8VFrYREg2QT4d85BYLPCBa_GlKPKt_yVZx8_KUTKIQr9wXg_GODzNo8oadqQBg_XSAhLIzpfuSGTQ2ejOcBT_6XB0ehQJKsP2FZEbYObktvaf-P3ZPtronCqGbiMRuBrSC47OZ_3C3z3d_oT0WFeVeRIivFIYyhJiU_h1Gl1e9GjTr0spr6AACwDoP3XcbUuszIaotDIPd4waOw0Ood2dmr4RzLjhpMOSpADOgJvxttn6-oYyeMYPvIfoDqdV5n4gmG2z6Tx8rweT-_hVUxhFQSr9qjPvRtt5j9Ek-NUvumzAg-UlRE95Kc7FspVWGM8b5QfyaUj1vYsbeJXJ1kLqr_FCims8njTLRzZJbRze5s-mkqAtZ0s5y_tCX1fvTfI_VifZ8ytzqmvCshnNw36YHzZNKSIYEcYNgfwoXdb4UusFGpYENNZRo-iy0urrAUmxaPazmvSufrZyuK_owyAFfT31RcDAfjNq_uwQbVLD7Rz1J6--_PiqR-75WwtGpm9UcH3qVLqrTNcuC8DWJ7p4L4ltq3fF8Z3973ps35dgdg0NljQn4UjqYDRUregAaohPwgSKFz38E96l57bUDykbF04X1emoMneVmruiwat1fngxCxgpQE8BH95U4iAvr_L8zytEhEKHn9_ug6dojpKqN08vNM2YhNwcHXH78KTQorrsSL5YUngHEbwOKJVRZM3X2w5lQGEj8TTE-TeFv2lRKoezV9-9dE892b2JqKMLcmv1kSR3N-D_nMSwiLDxKhkiGUR1wR4l2OLjd2KaJ2BGUB-hQmlbbs1uI0piESpemwrVlcVeXTr5qt-2XtLSqeH5dwAt-6H3sP4MVwqDxaJ3x7iD5w9BqVU8cgYdIjMtftHW96ZKDRa39fbL1Yxi2agGQme6_RIjufurHL-bL0dXoMOpADHSxYN3Q8iwU1TShRVKBIAadx3N-NOkzvopWAZFqckrW8arFpeJU80VUk_z_14suIQ40OyiXqh5dcHSO1aiQKN8xQS9p4vt7kaJ57kgDPoxP6yqynYXiVTrpcwljUUZTUE8-dLtsUd9XCIWYeQr_vokMKoEDurXPkiDCjAV6bLlDL-fRAYojX6EBIB0svaPKkvK-MgMH5R8KjhCCGc3R01NsoNGpqEKTbcfTMPbPY6e-9Fqn2oKDL-Rmn8tI4-axiKhSmu4uYf2ATxFlh13GqHtpiMYYtZfJEPP_aVD92hf8JOlxd9zsXmjHOVXjj6sz1S4jD8yxvr3KCh57e0rL2E1aD9FxoCBsT5Xfk-H-53Ey4gWO9CBKeSkhsPgH5mmAG7fFWkPd7pXMR1q3mh6bdmb1f2FThvc7iH-XDHdEang6Gywc0C2jLARrQOphEYr2cDG-oFM4g_Xw0a6SVdPppTSDpyGUhDKnB8UKpJFRteXEJPSk-Ay9nCCD1njWqM1ObtHvTMDVeD4iSRV4fCRx_c0gSnQdnHF1YNDWgtY4xEkrdx5XUht5owz66YMBmbRaXgoyluy4T4nAOpGcWV8X2RxeINOBnwrBj9-jhPKvUZmcMPK9O0pBk3VPZ8T6lVv7XnXuuFvLEF381wOnNXohxfWcs8xY923mU2dHYLDhJXyogNygDeXiDQVl-xfReVSXnIgCCwkyO7Jw8ZUsurd57AzQY5nahn4fLhQXymfh9r2FGeNd-JTjInDg4FU4Bzl53RVvtqRL3JUru_uIFA6Zuo9vnnRMopUOemEMVzseisZGrZJ_eCd27o85g43pfVZK2TnRIl4G015UH_4zcoCQ7PDGur3NXQuIICpjG5nGZ1BT5cYXRrGE71zMXa4EgoeuZfI2j5Ob_ZQYEVlIXywYUStlugEugDRh-6nE7oAuLyU4Wl3V6aWZIpjV_QKLlPG7Y8sMSD4b-_bp1A_pOPGZDCd8u_msb-rZYoRymvSsCYL3GnPDr6vNpewIBlikgKE8VQhFWlqRSiG90PssFBgnFCxWnjFI7MZJ7cGUrcv5E_dIzgg-QpehaFKd1kBMqHTvev4APRxUoIqfwWRTHuJcrFnyPeawPoLkSxp6oad7uPmQF2e_6IKmxM1_Tcfn_GzwaLSiO6wk7hBANiJyz9chSS5jrwBJhZomD4icXaYspFFl4Si-BYyocKbGEBFOmhXUxG8SPhqH-s7A4a9NFemHUobl3m9E9aeaqwkd8y6ogTYpVXeNjSfpWpCnqLhwDRE0SUMSU-Ew2tKZ0aWUDc-eRfcrYNxueWs_ldkR3i1Zb7-ZbzRcxs5JOD2604HLnO1SSnBAxC_TbehT6SWBCjPxlV8DOzJmVEXIfLjzPz-QypsKP3Q8Vk4kji2hYRiJAwPOlyJHVLTKQglp56bH81_iFE8BXTNPEL5Gs9_ea91mq7PnndbsMDDtEVawng6UUJkniW1lwauLCxmcV9NI9oGuz4xRGdSEUFMYNuYePRveJSWTZ_9zuTFDn17hjzM67DLz6-Wuaa3Pp6h406c5h9NVVvOfFiznsG2PHj356h9d784IYzxZoP66-wB6yVH07lMoKk7mnt8ZdOKbsnMBdlVRPdcBACzqt2ezipmyI22C9XqIQXRoZb4nbkexC9VO2x0YJpDKJf-xzXbMONUGJdChzYdVZqgq1ub9KbilUuMoVD61E-ECMKbl_SW5QDl64gTyp6PGaFQWskjJFhITcdcf_isffg8zMEaRnjpkucaTNbt0prmR7vJ-VqWSBHVqmGbzeYkE4vKH8GxmzBO1JLKodmYjWYY-NvmRUA3WNdUQlzEX4JEqKks3oR2gd4y-PQEA5qBLYxXnzVLuGj0HYUYsMiBSLcT9TvCxoxu-gGn2a60Htz36Dk4xkULWf7wN3TlEH-HZTQNAk1fB5gv72yHsTmnI8tNZFWn6MA7UAIkzFaEFot0XelrdgMGfSF-vhoWMyHCI9RFahzdTAWwmDSQHI4D7a20HYBOUBjWBdzfAuxR6m5arHvUYrrnSJ7zn35sRni-9s5OLxwZOvJKGm10xx0tG0GThRKPQv1M5SkUAmIDrPw4N9SNpLgFpYeditlBS6yNssxyk2M5jdYS72EJZ2CtPMTyw4KUL_dRBoclroVRbmECdGIRG_jWIisMMFcaVEsdu8THPMvyrtKbPHBjRD_Pq7WpIu7ZCSMeo-pGd2RUzfS5denVD4OPuuBo3Sa8wOGBwEclZfxh7jrFyFE5hf0CLDhPV_67_B1nQSLfGhLis9ioKgR_uerIGn9sUKhFN-qt32KlPxbdAdaf03V4X-kv7MdVxgbJ11HOEH1XwD6QbsAJOrKBBpVdY-YpFomZEIAklX9Fn4VH7Q4glgEO2ve_Xn2zmjnlIyCTYpAaVCtfZhzIQYMan6z0HPIr8QgGGDB39M3XAFgy2xZgoVvOQd3PnZlQOlQ5C3URxqCiSaaW5y_I9paVi-vjH34vQO6dZSqy4byntDTQHmunO-ox0jNBYxJ64-Iu-JNPzY1qy4VTzDEHmYJ3wrK1xVCR8WkDYjb_LdOJx3pb6NCqUpwhh9V4_cQgNAJL1pICuONPl7vHknTQ3UFG99qYE7xDklkc5eu8tCvbmzhbD7UWYnpsAjm8wTZ9th7_IOe_C2pwBBRQAN2shtnlkehy6lrEUC1C5TbNvlEy3BQVO31-qWuZ8oGmRuPoODHtoGvCPL1gL9-UYLZ-HGRu14CN9gHwQ-BXHGJ6KL2VgPQUdAE2RZlSzDkksuvOHxaWrTml7yYJTODQZ0R2ue1HxMVYwz-4PJ1cPolaKjK6m_zNqkjxL5mwgk2-c2u7TLGMu2gEOUGWdzxrtsufNctE2HuPEuahNgNAEBzf23pWn5_qwZHpo6sfsYQFbygZ-rSkm090_lr2E0Up_FAen-43b06_RCV9BlYWPAEfO-wM2Gm-0jvFtUvb4X6Vt3eMYpWPEfIfo1amFegMyZ24un3hAjz9heISoD24UvXmJ8eh7hNKYFMh9xkNV8s9Kzwj7-mKzh8hlQzhg9Ye20AXyARAP_dW91SBL-w8GxcHREvnfP4h-tYzsqTuN9RXcuUKLRxXVr-XV-OUHnIhvXoaa3MXIU0eQzzEyU7eJwod7kVNhHYFuuH6agUsm0KyofWbBFCkwwSLugNKFTBcbcmiaacYnQ7y_FaYnzR1jC_y6PTqtHn-LVtuNFp7x-yS1mo2DdHc103BuBcXCuqGEdYKfQwM_dXJsK2iXe2TvogV4X6SeNDih4rouQgWS-8Wz4vvAK5X6jthbIb8qrB5gyY-G1fV1lNvNGiAGfEje_R_y7MBKVYYtdKIM8TaSKZSfIZ7Rw7owk3FwA2Uod3TNC1-oKg6Z5dC2cAvSEwLbA0tFn3LFgHv_wBvNZhZxVJnDWhVVihOcUf5alABLC78yPFlwpOpkNlxCc7Mtc6tWiGWTB2NAKmKRA8vMV5hl8-sNYgeG1ujsVT5kAyp_FH7f6e_jzkNh_kYxZNB97_xUPbM3XPl2cKS4ypQQWNL4iwXHu5BWwNBhoXkgk4BeiLL9DA4-wEaSSqdEoQJ0bgAELHz77ThaN2CKrvXU00vkiXX5mQZvtg8kVMFlD1GPT0u1FpQkJP1YOJ3dZcT0w_NvRonUAD2b50meXuObl7D3Qek3rXi68Vh2Je-bxNwgan8WnxUbiex8pkvZ727i-jlbxtY03rl9L0GWIXifjcXGBwoMDjcWQ1z2rdutfIf3MA86yi9HCXYSBT1CnnLWAoru6elh5lhb44V9QnFDjSvJ-Q4TOZhlAr7g_Xgpngu4DxUGJ6XH06XgA6Jm71Uc8ZcIFVMwfHavpKCou9xzICifATSZ9AseBigu6TREmpdMUhwTueapaN_VdFlsv3BBGn-ehNHPkpW5Tsj4OJdkFigygGhWNAD5WGbVbM1Riz9Wb13P2Vc9EdL_b7hmbCoDVNK8QNs2fyLgO91TMhdtCGu1KMcNG_WuWqxWrUI9gmWCcrDBusKnBafr1avIc5MRSdalus-oUddzrzsQekc14HDU0e6quFDatIuJ8il81Mm86F7FRpWDd2lgSHoI0ODTDs1hh309Ho5vv7NUSsHB8ncaLtYMNxIIe5vdFLIubMhLgqlGwA_W1GtM9gLVGor-6QuM-sDJII0MPKgX_8kiRFBOOcRTxa8f5bt9R2lyWDN2iKwtfxGFmJhRlNPnHofBDR_PiCYLOdjsoCpdUpzmjALQXTE9_voph36WgX0bxptoM8_h-sT3Zyj_jAIhUDfc892K-EmGbOWplYzfgzjVD5IfreAJtZQFAbzYlJpbeNCodKNGYSam-iIZrRGtRWZ796_hBW8gtEtrX1jUJIbGRO4L8jfIK_fVfLAOUBYSotpUDSRoitqH0NJF4_VuwgRqN6bQbjW3rmFs87oOm6Z_8oZ-5f9niEJbScaQX0Jqz74N7cR7CdbCXRDWTsaVNtAIhlpP-EvWAvM6iZIyI4BOD1-Sh5nJQRmJV5nUF60g3xqRaUKD9USqOrQJvdeVuu7aIkemMitSaPIDTZ0O76dW5gPPhAID-XGKIupMP0dS6B8WNdG9on-dDp1QgOIcfw1ZJH2_VhNqOMMfc1XC6i02GYycZ3zxik1rirB3pU81RcqWTkFt_KEUDDY6MHO7QxygnLaLBz2dWuE4v6W8IECYMSYVF9j6QN-mpGxRAhkl4ErlHFaK1qis0vKlD9oJ3gSwI3SBzDP7xGcWR430qMMmmlrY8Gbi7D6JOFoY6ZgFuEx7xEJGuFTGt70QsxlVtnN6_QYczhOlqOVEywjVT0r9uRFPoigZKH0kZggvFD87X0KKAkUQYAaXIV1wKGxzf9FIttABnEDgZXl6rb_DWYjINr1Sw5P5tkU_dlprobJZ6Do4FZ_6-zozxUnZl5IQ5yv1_SLvRwCNTTC9IsCCrwT-drZF1xncrGODrHambGT3Sh-i-vRRZSju8PheyNE9x4B5E3Ilos19U4fka1FIEWp5Tz-FPzL0VQL9IEv-ij0kxUMGvHuHPoEmpmSTbkiOvAvRYyYnLXGCzkgqJ99wH8dldLn5xXzSHIJDBwBxMS_W5BbmDS0Flpl4feTECB-9g9DdWKqlAslhU7-r4k6A1yK6N8qV-H6hS5Qd1R0iGVCxf_YxykvTFicdWWbT-FVj8M8uootdpRZf0vdchdEHdw5ROhi2uZcBdtq0T9wa1zbjSqmFvk_wpTjix0ZLavbH3MFdySuWLjp9PZHJApkvLHabCILyUxd2AFKi7gNL49dxpX35LVVzLIWbKiW_sTA8vUHtI__XNcdxbzAM1I8jHtiDabki6CMsieqnwAObzNEPdgNp_RGkzyq6qNw7mVV4827e0lhs4yyXw_V8Lv2pQvw2QtTzGyDaFKTXYegvW0IkZMJGyHWYGqPvUOtVgNs0O-WNKIHVff5I1juDoNlOVaes2XlRc0AlVAxROsZqlTIT5PzzflHHeMVJiunWmMdH14IkELT_rdNhSC448asEisCvz6UaKXeKYsPz8MT613LcJxna-kP7_kHTfiKuWnpRIZAaumGySjsXkCuW9i6-1OLz-lxo0fVdWigCFq6mPGBe3RHffSST3iT6KrWn1xA380ZhNuKX-3skpivYIg9Gnc1kCrX9KkhVOYP5Xy_I=PRLZb7AVwWIDvDNTVVM1VVXL4y5MFXxxP5qmjIfNMTw=
+import math, asyncio
+from typing import Any
+import httpx
+from app.clients.massive_client import MassiveClient
+from app.clients.fred_client import FredClient
+import numpy as np
+from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
+from sklearn.linear_model import LinearRegression
+from statsmodels.tsa.arima.model import ARIMA
+MARKET_BENCHMARKS=["SPY","QQQ","DIA","IWM"]
+SECTOR_BENCHMARKS=["XLK","XLF","XLV","XLY","XLP","XLE","XLI","XLB","XLRE","XLU","XLC"]
+
+def pct(a,b):
+    try:return None if a in (None,0) or b in (None,0) else (a-b)/b*100
+    except Exception:return None
+
+def returns(series):
+    return [(series[i]-series[i-1])/series[i-1] for i in range(1,len(series)) if series[i-1] not in (None,0) and series[i] is not None]
+
+def mean(x):return sum(x)/len(x) if x else None
+
+def stdev(x):
+    if len(x)<2:return None
+    m=mean(x);return math.sqrt(sum((v-m)**2 for v in x)/(len(x)-1))
+
+def annual_return(r):return mean(r)*252 if r else None
+def annual_vol(r):return stdev(r)*math.sqrt(252) if len(r)>1 else None
+
+def sharpe(r,rf):
+    ar=annual_return(r);vol=annual_vol(r)
+    return None if ar is None or not vol else (ar-rf)/vol
+
+def max_drawdown(prices):
+    peak=None;worst=0
+    for p in prices:
+        if p is None:continue
+        peak=p if peak is None else max(peak,p)
+        if peak:worst=min(worst,(p-peak)/peak)
+    return worst*100
+
+def corr(a,b):
+    n=min(len(a),len(b));a=a[-n:];b=b[-n:]
+    if n<2:return None
+    ma,mb=mean(a),mean(b)
+    sa=math.sqrt(sum((x-ma)**2 for x in a))
+    sb=math.sqrt(sum((y-mb)**2 for y in b))
+    return None if not sa or not sb else sum((a[i]-ma)*(b[i]-mb) for i in range(n))/(sa*sb)
+
+def beta(stock,market):
+    n=min(len(stock),len(market));stock=stock[-n:];market=market[-n:]
+    if n<2:return None
+    ms,mm=mean(stock),mean(market)
+    var=sum((m-mm)**2 for m in market)
+    return None if not var else sum((stock[i]-ms)*(market[i]-mm) for i in range(n))/var
+
+def make_features(prices,lookback=10):
+    X=[];y=[]
+    for i in range(lookback,len(prices)):
+        X.append(prices[i-lookback:i])
+        y.append(prices[i])
+    return np.array(X),np.array(y)
+
+def forecast_models(prices,horizon,models):
+    out={}
+    if len(prices)<60:return out
+    prices=[float(p) for p in prices if p is not None]
+    last=prices[-1]
+
+    if "linear_regression" in models:
+        x=np.arange(len(prices)).reshape(-1,1)
+        m=LinearRegression().fit(x,prices)
+        fp=float(m.predict([[len(prices)+horizon]])[0])
+        out["linear_regression"]={"forecast_price":fp,"forecast_change_pct":pct(fp,last)}
+
+    if "moving_average" in models:
+        ma=mean(prices[-20:])
+        out["moving_average"]={"forecast_price":ma,"forecast_change_pct":pct(ma,last)}
+
+    if "exponential_smoothing" in models:
+        alpha=.2;s=prices[0]
+        for p in prices[1:]:s=alpha*p+(1-alpha)*s
+        out["exponential_smoothing"]={"forecast_price":s,"forecast_change_pct":pct(s,last)}
+
+    if "momentum" in models:
+        r=returns(prices[-30:]);avg=mean(r) or 0;fp=last*((1+avg)**horizon)
+        out["momentum"]={"forecast_price":fp,"forecast_change_pct":pct(fp,last)}
+
+    X,y=make_features(prices,10)
+
+    if "random_forest" in models and len(X)>30:
+        m=RandomForestRegressor(n_estimators=100,random_state=42)
+        m.fit(X,y)
+        window=np.array(prices[-10:])
+        for _ in range(horizon):
+            pred=float(m.predict([window])[0])
+            window=np.append(window[1:],pred)
+        out["random_forest"]={"forecast_price":pred,"forecast_change_pct":pct(pred,last)}
+
+    if "gradient_boosting" in models and len(X)>30:
+        m=GradientBoostingRegressor(random_state=42)
+        m.fit(X,y)
+        window=np.array(prices[-10:])
+        for _ in range(horizon):
+            pred=float(m.predict([window])[0])
+            window=np.append(window[1:],pred)
+        out["gradient_boosting"]={"forecast_price":pred,"forecast_change_pct":pct(pred,last)}
+
+    if "arima" in models:
+        try:
+            m=ARIMA(prices,order=(5,1,0)).fit()
+            fp=float(m.forecast(steps=horizon)[-1])
+            out["arima"]={"forecast_price":fp,"forecast_change_pct":pct(fp,last)}
+        except Exception as e:
+            out["arima"]={"error":str(e)}
+
+    return out
+
+async def fetch_benchmark(client,ticker,from_date,to_date):
+    try:
+        raw=await client.get(f"/v2/aggs/ticker/{ticker}/range/1/day/{from_date}/{to_date}",{"adjusted":"true","sort":"asc","limit":50000})
+        rows=raw.get("results") or []
+        return ticker,[{"date":r.get("t"),"close":r.get("c")} for r in rows]
+    except Exception:
+        return ticker,[]
+
+async def run_financial_ml_analysis(payload:dict[str,Any]):
+    models=payload.get("models") or ["linear_regression","moving_average","exponential_smoothing","momentum"]
+    horizon=int(payload.get("horizon_days") or 30)
+    from_date=payload.get("from_date")
+    to_date=payload.get("to_date")
+    tickers=payload.get("tickers") or []
+    results=payload.get("results") or []
+
+    risk_free_series=payload.get("risk_free_series") or "DGS3MO"
+    rf_fallback=float(payload.get("risk_free_rate") or .045)
+    fred_rate=None
+
+    async with httpx.AsyncClient() as h:
+        fc=FredClient(h)
+        try:fred_rate=await fc.latest_rate(risk_free_series)
+        except Exception:fred_rate=None
+        mc=MassiveClient(h)
+        bench=dict(await asyncio.gather(*[fetch_benchmark(mc,t,from_date,to_date) for t in MARKET_BENCHMARKS+SECTOR_BENCHMARKS]))
+
+    rf=fred_rate if fred_rate is not None else rf_fallback
+    spy_prices=[r["close"] for r in bench.get("SPY",[]) if r.get("close") is not None]
+    spy_returns=returns(spy_prices)
+    market_return=annual_return(spy_returns) or 0
+
+    summary=[]
+    stock_returns={}
+
+    for item in results:
+        ticker=item.get("ticker")
+        prices=[r.get("close") for r in item.get("price_history",[]) if r.get("close") is not None]
+        r=returns(prices);stock_returns[ticker]=r
+        b=beta(r,spy_returns)
+        capm=None if b is None else rf+b*(market_return-rf)
+        ar=annual_return(r);vol=annual_vol(r)
+        best_sector=None;best_corr=-2
+
+        for s in SECTOR_BENCHMARKS:
+            sr=returns([x["close"] for x in bench.get(s,[]) if x.get("close") is not None])
+            c=corr(r,sr)
+            if c is not None and c>best_corr:best_sector=s;best_corr=c
+
+        score=50
+        sh=sharpe(r,rf)
+        if sh is not None and sh>1:score+=15
+        if ar is not None and ar>market_return:score+=15
+        if vol is not None and vol<.35:score+=5
+        if max_drawdown(prices)<-30:score-=10
+
+        score=max(0,min(100,score))
+        signal="BUY" if score>=70 else "SELL" if score<=40 else "HOLD"
+
+        summary.append({"ticker":ticker,"latest_price":prices[-1] if prices else None,"annual_return_pct":None if ar is None else ar*100,"annual_volatility_pct":None if vol is None else vol*100,"sharpe":sh,"beta_vs_spy":b,"capm_expected_return_pct":None if capm is None else capm*100,"alpha_pct":None if ar is None or capm is None else (ar-capm)*100,"max_drawdown_pct":max_drawdown(prices),"best_sector_benchmark":best_sector,"sector_correlation":best_corr if best_corr!=-2 else None,"decision_support_signal":signal,"model_score":score,"forecasts":forecast_models(prices,horizon,models)})
+
+    starting_fund=float(payload.get("starting_fund") or 10000)
+
+    buy_stocks=[x for x in summary if x.get("decision_support_signal")=="BUY"]
+    hold_stocks=[x for x in summary if x.get("decision_support_signal")=="HOLD"]
+
+    if buy_stocks:
+        cash_pct=5
+        alloc_base=buy_stocks
+    elif hold_stocks:
+        cash_pct=25
+        alloc_base=hold_stocks
+    else:
+        cash_pct=75
+        alloc_base=summary
+
+    investable=starting_fund*(1-cash_pct/100)
+    total_score=sum(max(1,x.get("model_score") or 1) for x in alloc_base) or 1
+
+    allocation=[{"ticker":x["ticker"],"weight_pct":(max(1,x.get("model_score") or 1)/total_score)*(100-cash_pct),"dollar_amount":investable*(max(1,x.get("model_score") or 1)/total_score)} for x in alloc_base]
+    allocation.append({"ticker":"CASH","weight_pct":cash_pct,"dollar_amount":starting_fund*(cash_pct/100)})
+
+    matrix=[]
+    for a in tickers:
+        row=[]
+        for b in tickers:row.append(corr(stock_returns.get(a,[]),stock_returns.get(b,[])))
+        matrix.append(row)
+
+    return {"disclaimer":"Decision-support analytics only. Not financial advice.","recommended_allocation":allocation,"starting_fund":starting_fund,"cash_pct":cash_pct,"risk_free_rate":rf,"risk_free_series":risk_free_series,"risk_free_source":"FRED" if fred_rate is not None else "fallback","models":models,"horizon_days":horizon,"market_benchmark":"SPY","sector_benchmarks":SECTOR_BENCHMARKS,"summary":summary,"correlation_matrix":{"tickers":tickers,"matrix":matrix}}
