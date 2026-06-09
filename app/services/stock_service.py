@@ -35,6 +35,11 @@ def safe_number(value: Any) -> float | None:
         return None
 
 
+def nz(value: Any) -> float | None:
+    value = safe_number(value)
+    return value if value is not None and value > 0 else None
+
+
 def normalize_endpoint_result(raw: dict[str, Any] | list[Any] | None) -> list[dict[str, Any]]:
     if raw is None:
         return []
@@ -109,13 +114,14 @@ def extract_latest_from_snapshot(snapshot: dict[str, Any] | None) -> dict[str, A
     }
 
 
-def latest_financial_period(rows):
+def latest_financial_period(rows: list[dict[str, Any]] | None):
     if not rows:
         return None
 
     def date_key(row):
         return (
-            row.get("filing_date")
+            row.get("period_end")
+            or row.get("filing_date")
             or row.get("end_date")
             or row.get("report_period")
             or row.get("fiscal_period_end_date")
@@ -124,6 +130,101 @@ def latest_financial_period(rows):
         )
 
     return sorted(rows, key=date_key, reverse=True)[0]
+
+
+def analyze_supply_demand(
+    quotes: list[dict[str, Any]] | None,
+    trades: list[dict[str, Any]] | None,
+) -> dict[str, Any]:
+    valid_quotes = []
+
+    for q in quotes or []:
+        bid = nz(q.get("bid_price") or q.get("bp"))
+        ask = nz(q.get("ask_price") or q.get("ap"))
+        bid_size = nz(q.get("bid_size") or q.get("bs"))
+        ask_size = nz(q.get("ask_size") or q.get("as"))
+
+        valid_quotes.append({
+            "bid": bid,
+            "ask": ask,
+            "bid_size": bid_size,
+            "ask_size": ask_size,
+            "raw": q,
+        })
+
+    two_sided = next((q for q in valid_quotes if q["bid"] and q["ask"]), None)
+    latest = two_sided or (valid_quotes[0] if valid_quotes else {})
+
+    bid = latest.get("bid")
+    ask = latest.get("ask")
+    bid_size = latest.get("bid_size")
+    ask_size = latest.get("ask_size")
+
+    mid = ((bid + ask) / 2) if bid and ask else None
+    spread = (ask - bid) if bid and ask else None
+    spread_pct = (spread / mid * 100) if spread is not None and mid else None
+
+    bid_depth = sum(q["bid_size"] or 0 for q in valid_quotes)
+    ask_depth = sum(q["ask_size"] or 0 for q in valid_quotes)
+    quote_imbalance_pct = (
+        bid_depth / (bid_depth + ask_depth) * 100
+        if bid_depth + ask_depth
+        else None
+    )
+
+    trade_prices = [nz(t.get("price") or t.get("p")) for t in trades or []]
+    trade_prices = [p for p in trade_prices if p is not None]
+
+    trade_sizes = [nz(t.get("size") or t.get("s") or t.get("decimal_size")) for t in trades or []]
+    trade_sizes = [s for s in trade_sizes if s is not None]
+
+    avg_trade_price = sum(trade_prices) / len(trade_prices) if trade_prices else None
+    trade_volume = sum(trade_sizes) if trade_sizes else None
+
+    trade_pressure = "UNKNOWN"
+
+    if avg_trade_price and mid:
+        if avg_trade_price > mid:
+            trade_pressure = "BUY_PRESSURE"
+        elif avg_trade_price < mid:
+            trade_pressure = "SELL_PRESSURE"
+        else:
+            trade_pressure = "NEUTRAL"
+    elif quote_imbalance_pct is not None:
+        if quote_imbalance_pct > 60:
+            trade_pressure = "BID_DEPTH_DOMINANT"
+        elif quote_imbalance_pct < 40:
+            trade_pressure = "ASK_DEPTH_DOMINANT"
+        else:
+            trade_pressure = "BALANCED_DEPTH"
+
+    liquidity_signal = "NEUTRAL"
+
+    if quote_imbalance_pct is not None and quote_imbalance_pct > 60 and trade_pressure in ["BUY_PRESSURE", "BID_DEPTH_DOMINANT"]:
+        liquidity_signal = "BULLISH_SUPPLY_DEMAND"
+    elif quote_imbalance_pct is not None and quote_imbalance_pct < 40 and trade_pressure in ["SELL_PRESSURE", "ASK_DEPTH_DOMINANT"]:
+        liquidity_signal = "BEARISH_SUPPLY_DEMAND"
+
+    return {
+        "bid": bid,
+        "ask": ask,
+        "bid_size": bid_size,
+        "ask_size": ask_size,
+        "mid": mid,
+        "spread": spread,
+        "spread_pct": spread_pct,
+        "bid_depth": bid_depth,
+        "ask_depth": ask_depth,
+        "quote_imbalance_pct": quote_imbalance_pct,
+        "avg_trade_price": avg_trade_price,
+        "trade_volume": trade_volume,
+        "trade_pressure": trade_pressure,
+        "liquidity_signal": liquidity_signal,
+        "quote_count": len(quotes or []),
+        "trade_count": len(trades or []),
+        "two_sided_quote_found": bool(two_sided),
+    }
+
 
 async def guarded_call(
     client: MassiveClient,
@@ -206,12 +307,24 @@ async def fetch_ticker_bundle(
             client,
             "news",
             "/v2/reference/news",
-            {"ticker":ticker,"limit":5,"order":"desc","sort":"published_utc"}),
-        guarded_call(client,"quotes",f"/v3/quotes/{ticker}",{"limit":100,"sort":"sip_timestamp","order":"desc"}),
-        guarded_call(client,"trades",f"/v3/trades/{ticker}",{"limit":100,"sort":"sip_timestamp","order":"desc"}),
+            {"ticker": ticker, "limit": 5, "order": "desc", "sort": "published_utc"},
+        ),
+        guarded_call(
+            client,
+            "quotes",
+            f"/v3/quotes/{ticker}",
+            {"limit": 100},
+        ),
+        guarded_call(
+            client,
+            "trades",
+            f"/v3/trades/{ticker}",
+            {"limit": 100},
+        ),
     ]
 
     raw_results = dict(await asyncio.gather(*calls))
+
     snapshot_raw = raw_results["snapshot"]["data"] if raw_results["snapshot"]["ok"] else {}
     bars_raw = raw_results["daily_bars"]["data"] if raw_results["daily_bars"]["ok"] else {}
 
@@ -221,11 +334,12 @@ async def fetch_ticker_bundle(
     cash_flow = normalize_endpoint_result(raw_results["cash_flow_statements"]["data"]) if raw_results["cash_flow_statements"]["ok"] else []
     dividends = normalize_endpoint_result(raw_results["dividends"]["data"]) if raw_results["dividends"]["ok"] else []
     splits = normalize_endpoint_result(raw_results["splits"]["data"]) if raw_results["splits"]["ok"] else []
-    news=normalize_endpoint_result(raw_results["news"]["data"]) if raw_results["news"]["ok"] else []
+    news = normalize_endpoint_result(raw_results["news"]["data"]) if raw_results["news"]["ok"] else []
+    quotes = normalize_endpoint_result(raw_results["quotes"]["data"]) if raw_results["quotes"]["ok"] else []
+    trades = normalize_endpoint_result(raw_results["trades"]["data"]) if raw_results["trades"]["ok"] else []
 
     return {
         "ticker": ticker,
-
         "overview": extract_latest_from_snapshot(snapshot_raw),
         "price_history": extract_aggs(bars_raw),
         "fundamentals": {
@@ -242,6 +356,11 @@ async def fetch_ticker_bundle(
             "splits": splits,
         },
         "news": news,
+        "market_microstructure": {
+            "quotes": quotes[:25],
+            "trades": trades[:25],
+            "supply_demand": analyze_supply_demand(quotes, trades),
+        },
         "supply_chain_exposure": {
             "status": "placeholder",
             "message": (
