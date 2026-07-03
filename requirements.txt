@@ -1,10 +1,1 @@
-fastapi
-uvicorn[standard]
-httpx
-python-dotenv
-openai
-google-genai
-numpy
-pandas
-scikit-learn
-statsmodels
+gAAAAABqRw97fBcvxvieuWxmOh2iuQKorfMHxFBftJrENpC2EB3ujmT9XFEPvt93xf9go9aGxRkApHyJZ0ArQkIuV0BGE66JhIvppF3tBgS7yFPpDWCvzzZkfcGDcFgQgZq-o7ch32sZB2qMhm95awnRzJQpjlJqhjLPn9LR1vrKjurW1TKDXclW4XDhcMiZL3XIfaR7wuJ-PC0_KdLxrkH7d2ujqZ4z7FkrTPvGx5DvVqzi_OLBlL8=GsPQ1KRX9cfLxkA359vJMtZs9xUuLcEbEfXtYX2T-k8=
